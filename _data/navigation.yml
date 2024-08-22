@@ -1,0 +1,5 @@
+main:
+  - title: "Agenda"
+    url: agenda/
+  - title: "Organization"
+    url: organization/

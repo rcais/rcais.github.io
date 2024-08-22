@@ -1,0 +1,21 @@
+members:
+  - name: Mark Riedl
+    website: https://eilab.gatech.edu/mark-riedl.html
+    rank: Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://eilab.gatech.edu/assets/images/mark-potato.jpg
+  - name: Josiah Hester
+    website: https://josiahhester.com/cv/
+    rank: Associate Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://josiahhester.com/cv/img/headshot3.jpg
+  - name: Andrea Parker
+    website: https://faculty.cc.gatech.edu/~andrea/
+    rank: Associate Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://faculty.cc.gatech.edu/~andrea/images/Parker_Andrea_006.jpg
+  - name: Shaowen Bardzell
+    website: https://shaowenbardzell.com/
+    rank: Professor and Chair
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://shaowenbardzell.com/wp-content/uploads/2013/07/bardzell-shaowen.jpeg
