@@ -4,7 +4,7 @@ title: Agenda
 toc: true
 ---
 
-<strong>Confirmed Speakers:</strong>
+<strong>Organizing Committee:</strong>
 
 {% for x in site.data.organization.members %}
   <p>
