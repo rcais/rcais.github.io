@@ -60,7 +60,7 @@ title                    : "Summit on Responsible Computing, AI, and Society"
 title_separator          : "-"
 subtitle                 : "October 28-30, 2024, Atlanta, Georgia, USA" # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "Summit on Responsible Computing, AI, and Society"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
