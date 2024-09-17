@@ -4,7 +4,7 @@ title: Speakers
 toc: true
 ---
 
-<h2>Keynote</h2>
+<h2>Keynotes</h2>
 
 <ul>
 {% for x in site.data.speakers.keynote %}
