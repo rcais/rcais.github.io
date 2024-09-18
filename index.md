@@ -17,7 +17,7 @@ The Summit on Responsible Computing, AI, and Society aims to explore  the future
 
 <Strong>Doctoral Consortium</Strong>
 
-The Summit will feature a Doctoral Consortium, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. Please inquire with the organizers for more information.
+The Summit will feature a <a href="doctoral-consortium/">Doctoral Consortium</a>, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. Please inquire with the organizers for more information.
 
 <strong>Venue</strong>
 
