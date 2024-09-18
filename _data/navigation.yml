@@ -3,5 +3,7 @@ main:
     url: agenda/
   - title: "Speakers"
     url: speakers/
+  - title: "Registration"
+    url: registration/
   - title: "Organization"
     url: organization/

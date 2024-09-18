@@ -4,7 +4,7 @@ title: Organization
 toc: true
 ---
 
-<strong>Organizing Committee:</strong>
+<h1>Organizing Committee:</h1>
 
 {% for x in site.data.organization.members %}
   <p>
