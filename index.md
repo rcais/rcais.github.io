@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/hillrcolored.png
+  overlay_image: /assets/hill9crop.png
   overlay_filter: 0.5
 show_overlay_excerpt: true
 author:
