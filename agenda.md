@@ -10,7 +10,7 @@ toc: true
 	<li>Half-day <a href="../doctoral-consortium/">Doctoral Consortium</a></li>
 </ul>
 
-<h2>Tuesday, October 28, 2024</h2>
+<h2>Tuesday, October 29, 2024</h2>
 
 <ul>
 	<li><strong>Keynote:</strong> <a href="https://research.google/people/meredithringelmorris/?&type=google">Meredith Ringel Morris</a>, Google DeepMind
@@ -24,7 +24,7 @@ toc: true
 </ul>
 
 
-<h2>Wednesday, October 28, 2024</h2>
+<h2>Wednesday, October 30, 2024</h2>
 
 <ul>
 	<li><strong>Keynote:</strong> <a href="https://sts.cornell.edu/juno-salazar-parrenas">Juno Salazar Parreñas</a>, Cornell University
