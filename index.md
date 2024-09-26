@@ -29,7 +29,9 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
 
 | Sponsors                                      |
 |-----------------------------------------------|
-|<a href="https://ic.gatech.edu/"><img src="assets/IC-logo.jpg" width="300"></a> |
+|<a href="https://ic.gatech.edu/"><img src="assets/IC-logo.jpg" width="600" alt="Georgia Tech School of Interactive Computing"></a> |
 |-----------------------------------------------|
 |<a href="https://scre.research.gatech.edu/josiah-hester">Center for Sustainable Communities Research and Education</a> |
+|-----------------------------------------------|
+| <a href="https://ai.gatech.edu/"><img src="assets/ai-hub.png" alt="AI Hub @ Georgia Tech"></a> |
 
