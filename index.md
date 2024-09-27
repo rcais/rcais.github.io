@@ -27,11 +27,11 @@ The Summit will take place at the Georgia Tech Global Learning Center: 84 5th St
 
 The Summit graciously thanks its sponsors for proving support for the Doctoral Consortium.
 
-| Sponsors                                      |
+| Sponsors                                      |   | 
+|-----------------------------------------------|---|
+|<img src="assets/IC-logo.jpg" width="300"> | <a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a> |
+|-----------------------------------------------|---|
+| | <a href="https://scre.research.gatech.edu/josiah-hester">Center for Sustainable Communities Research and Education</a> |
 |-----------------------------------------------|
-|<a href="https://ic.gatech.edu/"><img src="assets/IC-logo.jpg" width="600" alt="Georgia Tech School of Interactive Computing"></a> |
-|-----------------------------------------------|
-|<a href="https://scre.research.gatech.edu/josiah-hester">Center for Sustainable Communities Research and Education</a> |
-|-----------------------------------------------|
-| <a href="https://ai.gatech.edu/"><img src="assets/ai-hub.png" alt="AI Hub @ Georgia Tech"></a> |
+| <img src="assets/ai-hub.png" alt="AI Hub @ Georgia Tech" width="300"> | <a href="https://ai.gatech.edu/">Georgia Tech AI Hub</a>
 
