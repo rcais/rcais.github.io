@@ -4,30 +4,46 @@ title: Agenda
 toc: true
 ---
 
-<h2>Monday, October 28, 2024</h2>
+<font color="red"><em>The following schedule is tentative.</em></font>
 
-<ul>
-	<li>Half-day <a href="../doctoral-consortium/">Doctoral Consortium</a></li>
-</ul>
+<h1>Monday October 28th</h1>
 
-<h2>Tuesday, October 29, 2024</h2>
+| Time | Activity | 
+|------|----------|
+{% for x in site.data.agenda.monday -%}
+{%- for y in x.slots -%}
+| {{ y.time }} | {{ y.activity }} | 
+{% endfor %}
+{% endfor %} 
 
-<ul>
-	<li><strong>Keynote:</strong> <a href="https://research.google/people/meredithringelmorris/?&type=google">Meredith Ringel Morris</a>, Google DeepMind
-		<blockquote>Anticipating the Impacts of Agentic Interactions: From Assistants to Clones to Ghosts
-		</blockquote>
-	</li>
-	<li><strong>Keynote:</strong> <a href="https://www.si.umich.edu/people/tiffany-veinot">Tiffany Veinot</a>, University of Michigan
-	</li>
-	<li>Invited talks on Human-Centered AI, Sustainability, Health, and Policy</li>
-	<li>Doctoral Poster Session and Reception</li>
-</ul>
+<h1>Tuesday October 29th</h1>
+
+| Time | Activity | Room 1 | Room 2 | Room 3 |
+|------|----------|--------|--------|--------|
+{% for x in site.data.agenda.tuesday -%}
+{%- for y in x.slots -%}
+{% if y.tracks == nil -%}
+| {{ y.time }} | {{ y.activity }} | | | | 
+{%- else -%}
+| {{ y.time }} | {{ y.activity }} | {%- for z in y.tracks -%}{{ z.name }}|
+{%- endfor -%}
+{% endif %}
+{% endfor %}
+{% endfor %} 
+
+<h1>Wednesday October 30th</h1>
+
+| Time | Activity | Room 1 | Room 2 | Room 3 |
+|------|----------|--------|--------|--------|
+{% for x in site.data.agenda.wednesday -%}
+{% for y in x.slots -%}
+{% if y.tracks == nil -%}
+| {{ y.time }} | {{ y.activity }} | | | | 
+{%- else -%}
+| {{ y.time }} | {{ y.activity }} | {%- for z in y.tracks -%}{{ z.name }}|
+{%- endfor -%}
+{% endif %}
+{% endfor %}
+{%- endfor -%} 
 
 
-<h2>Wednesday, October 30, 2024</h2>
-
-<ul>
-	<li><strong>Keynote:</strong> <a href="https://sts.cornell.edu/juno-salazar-parrenas">Juno Salazar Parreñas</a>, Cornell University
-	</li>
-	<li>Invited talks on Human-Centered AI, Sustainability, Health, and Policy</li>
-</ul>
