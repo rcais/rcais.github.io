@@ -23,7 +23,7 @@ tuesday:
     - time: "11:30"
       activity: Invited talks
       tracks:
-        - name: TBA
+        - name: Alan Ritter
         - name: Neha Kumar
         - name: TBA
     - time: "12:00"
