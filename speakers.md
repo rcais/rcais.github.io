@@ -21,20 +21,10 @@ toc: true
 
 <h1>Confirmed Speakers</h1>
 
-<table>
-{% tablerow x in site.data.speakers.invited cols:4 %}
-<div id="{{ x.name }}" style="text-align:center;">
-<img src="{{ x.image }}" style="height:100px;width:auto;"><br>
-<a href="{{ x.website }}">{{ x.name }}</a><br>
-{{ x.title }}<br>
-{{ x.affiliation }}
-</div>
-{% if x.talk %}
-<blockquote><strong>Title:</strong> {{ x.talk }}</blockquote>
-{% endif %}
-{% endtablerow %}
+{% assign allspeakers = site.data.speakers.invited | concat: site.data.speakers.gt %}
 
-{% tablerow x in site.data.speakers.gt cols:4 %}
+<table>
+{% tablerow x in allspeakers cols:4 %}
 <div id="{{ x.name }}" style="text-align:center;">
 <img src="{{ x.image }}" style="height:100px;width:auto;"><br>
 <a href="{{ x.website }}">{{ x.name }}</a><br>
