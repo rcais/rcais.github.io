@@ -99,6 +99,11 @@ invited:
     title: Vice President
     affiliation: Beacon Global Strategies
     image: "https://bgsdc.com/wp-content/uploads/2024/04/Kaushik_ivyansh_16311_3k-scaled-e1712668159839.jpg"
+  - name: Udit Gupta
+    website: https://ugupta.com/
+    title: Assistant Professor
+    affiliation: Cornell Tech
+    image: https://ugupta.com/assets/images/uditgupta.jpeg
 gt:
   - name: Alan Ritter
     website: https://aritter.github.io/index.html
