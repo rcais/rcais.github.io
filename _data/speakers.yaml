@@ -53,7 +53,7 @@ invited:
     website: http://sorelle.friedler.net/
     title: Shibulal Family Professor of Computer Science
     affiliation: Haverford College
-    image: http://sorelle.friedler.net/pics/sorelle.jpg
+    image: "https://www.haverford.edu/sites/default/files/styles/profile_thumbnail/public/sorelle.jpg"
   - name: Catherine D’Ignazio 
     website: https://dusp.mit.edu/people/catherine-dignazio
     title: Associate Professor of Urban Science and Planning
@@ -114,7 +114,7 @@ gt:
     website: http://www.munmund.net/
     title: Associate Professor
     affiliation: Georgia Tech
-    image: http://www.munmund.net/imgs/munmun-pic3.png
+    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-09/munmun_de_choudhury.jpg"
   - name: Sonia Chernova
     website: https://faculty.cc.gatech.edu/~chernova/
     title: Associate Professor
