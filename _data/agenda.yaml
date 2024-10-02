@@ -25,7 +25,7 @@ tuesday:
       tracks:
         - name: Alan Ritter
         - name: Neha Kumar
-        - name: TBA
+        - name: Cindy Lin
     - time: "12:00"
       activity: Discussions
     - time: "12:15"
@@ -46,7 +46,7 @@ tuesday:
       activity: Invited talks
       tracks:
         - name: TBA
-        - name: Munmun DeChoudhury
+        - name: Munmun De Choudhury
         - name: TBA
     - time: "4:45"
       activity: Discussions
@@ -61,7 +61,7 @@ tuesday:
       tracks: 
         - name: TBA
         - name: TBA
-        - name: TBA
+        - name: Clio Andris
     - time: "6:00"
       activity: Discussions
     - time: "6:15"
@@ -85,8 +85,8 @@ wednesday:
     - time: "11:30"
       activity: Invited talks
       tracks:
-        - name: TBA
-        - name: TBA
+        - name: Sonia Chernova
+        - name: Naveena Karusala
         - name: TBA
     - time: "12:00"
       activity: Discussions

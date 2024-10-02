@@ -25,7 +25,7 @@ toc: true
 {% if y.tracks == nil -%}
 | {{ y.time }} | {{ y.activity }} | | | | 
 {%- else -%}
-| {{ y.time }} | {{ y.activity }} | {%- for z in y.tracks -%}{{ z.name }}|
+| {{ y.time }} | {{ y.activity }} | {%- for z in y.tracks -%}<a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>|
 {%- endfor -%}
 {% endif %}
 {% endfor %}
@@ -40,7 +40,7 @@ toc: true
 {% if y.tracks == nil -%}
 | {{ y.time }} | {{ y.activity }} | | | | 
 {%- else -%}
-| {{ y.time }} | {{ y.activity }} | {%- for z in y.tracks -%}{{ z.name }}|
+| {{ y.time }} | {{ y.activity }} | {%- for z in y.tracks -%}<a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>|
 {%- endfor -%}
 {% endif %}
 {% endfor %}

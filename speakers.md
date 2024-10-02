@@ -4,24 +4,45 @@ title: Speakers
 toc: true
 ---
 
-<h2>Keynotes</h2>
+<h1>Keynotes</h1>
 
-<ul>
-{% for x in site.data.speakers.keynote %}
-  <li>
-    <a href="{{ x.website }}">{{ x.name }}</a>, {{ x.title}}, {{ x.affiliation }}
-    <blockquote>{{ x.talk }}
-    </blockquote>
-   </li>
-{% endfor %}
-</ul>
+<table>
+{% tablerow x in site.data.speakers.keynote cols:2 %}
+<center>
+<img src="{{ x.image }}" style="height:200px;width:auto;"><br>
+<a href="{{ x.website }}">{{ x.name }}</a><br>
+{{ x.title }}<br>
+{{ x.affiliation }}
+</center>
+<blockquote><strong>Title:</strong> {{ x.talk }}</blockquote>
+{% endtablerow %}
+</table>
 
-<h2>Confirmed Speakers</h2>
 
-<ul>
-{% for x in site.data.speakers.invited %}
-  <li>
-    <a href="{{ x.website }}">{{ x.name }}</a>, {{ x.title}}, {{ x.affiliation }}
-   </li>
-{% endfor %}
-</ul>
+<h1>Confirmed Speakers</h1>
+
+<table>
+{% tablerow x in site.data.speakers.invited cols:4 %}
+<div id="{{ x.name }}" style="text-align:center;">
+<img src="{{ x.image }}" style="height:100px;width:auto;"><br>
+<a href="{{ x.website }}">{{ x.name }}</a><br>
+{{ x.title }}<br>
+{{ x.affiliation }}
+</div>
+{% if x.talk %}
+<blockquote><strong>Title:</strong> {{ x.talk }}</blockquote>
+{% endif %}
+{% endtablerow %}
+
+{% tablerow x in site.data.speakers.gt cols:4 %}
+<div id="{{ x.name }}" style="text-align:center;">
+<img src="{{ x.image }}" style="height:100px;width:auto;"><br>
+<a href="{{ x.website }}">{{ x.name }}</a><br>
+{{ x.title }}<br>
+{{ x.affiliation }}
+</div>
+{% if x.talk %}
+<blockquote><strong>Title:</strong> {{ x.talk }}</blockquote>
+{% endif %}
+{% endtablerow %}
+</table>

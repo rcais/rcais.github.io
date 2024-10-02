@@ -4,75 +4,134 @@ keynote:
     affiliation: Google DeepMind
     title: Director and Principal Scientist for Human-AI Interaction 
     talk: "Anticipating the Impacts of Agentic Interactions: From Assistants to Clones to Ghosts"
+    image: https://storage.googleapis.com/gweb-research2023-media/pubtools/6063.png
   - name: Tiffany Veinot
     website: https://www.si.umich.edu/people/tiffany-veinot
     affiliation: University of Michigan
     title: Joan C Durrance Collegiate Professor of Information and Associate Dean of the School of Information 
     talk: To be announced
+    image: "http://communityhealthinformatics.org/images/tiffany_veinot.jpg"
   - name: Juno Salazar Parreñas
     website: https://sts.cornell.edu/juno-salazar-parrenas
     affiliation: Cornell University
     title: Associate Professor of Science and Technology Studies and Feminist, Gender and Sexuality Studies
     talk: To be announced
+    image: https://people.as.cornell.edu/sites/default/files/styles/person_image/public/2022-09/junoweb.jpg
 invited:
   - name: Desmond Patton
     website: https://sp2.upenn.edu/person/desmond-upton-patton/
     title: Brian and Randi Schwartz University Professor
     affiliation: University of Pennsylvania 
+    image: "https://sig.columbia.edu/sites/default/files/styles/cu_crop/public/content/Desmond.jpg.jpeg"
   - name: Pedro Lopes
     website: https://plopes.org/
     title: Associate Professor 
     affiliation: University of Chicago
+    image: https://plopes.org/wp-content/uploads/2019/05/PedroLopes_UChicago2.jpg
   - name: Milind Tambe
     website: https://teamcore.seas.harvard.edu/tambe
     title: Gordon McKay Professor of Computer Science and Director of the Center for Research on Computation and Society 
     affiliation: Harvard University
+    image: "https://teamcore.seas.harvard.edu/sites/projects.iq.harvard.edu/files/styles/os_files_medium/public/teamcore/files/img_people_tambe_page.jpg"
   - name: Solon Barocas 
     website: http://solon.barocas.org/
     title: Principal Researcher, Fairness, Accountability, Transparency, and Ethics in AI (FATE)
     affiliation: Microsoft Research
+    image: https://infosci.cornell.edu/sites/default/files/faculty-solon-barocas.jpeg
   - name: Jeff Bigham 
     website: https://www.cs.cmu.edu/~jbigham/
     title: Associate Professor
     affiliation: Carnegie Mellon University
+    image: https://www.cs.cmu.edu/~jbigham/pics/jbigham-2023.jpg
   - name: Orly Lobel 
     website: https://www.sandiego.edu/law/about/biography.php?profile_id=2844
     title: Warren Distinguished Professor of Law, and Director, Center for Employment and Labor Policy
     affiliation: University of San Diego
+    talk: "How to Build Equality Machines: Rationally Harnessing Digital Tech for Scale, Inclusion, and Comparative Advantages"
+    image: https://www.sandiego.edu/assets/directory/uploads/images/2844.jpg
   - name: Sorelle Friedler 
     website: http://sorelle.friedler.net/
     title: Shibulal Family Professor of Computer Science
     affiliation: Haverford College
+    image: http://sorelle.friedler.net/pics/sorelle.jpg
   - name: Catherine D’Ignazio 
     website: https://dusp.mit.edu/people/catherine-dignazio
     title: Associate Professor of Urban Science and Planning
     affiliation: MIT
+    image: "https://dusp.mit.edu/sites/default/files/styles/square_crop/public/people-photos/dignazio_catherine.jpg"
   - name: Tal August
     website: https://talaugust.github.io/
     title: Assistant Professor
     affiliation: University of Illinois at Urbana-Champaign
+    image: https://talaugust.github.io/assets/img/prof_pic-1400.webp
   - name: Chinasa T. Okolo
     website: https://chinasatokolo.github.io/
     title: Research Fellow
     affiliation: The Brookings Institution
+    image: https://chinasatokolo.github.io/images/cto-cis.jpeg
   - name: Ellen Zegura
     website: https://new.nsf.gov/staff/elzegura
     title: Division Director
     affiliation: National Science Foundation
+    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-05/ellen_zegura_0.png"
   - name: Jacob Metcalf
     website: https://datasociety.net/people/metcalf-jacob/
     title: Program Director, AI on the Ground
     affiliation: "Data & Society"
+    image: https://datasociety.net/wp-content/uploads/2015/01/Metcalf.png
   - name: Jesse Thomason
     website: https://jessethomason.com/
     title: Assistant Professor
     affiliation: University of Southern California
+    image: https://jessethomason.com/thumbnails/face.jpg
   - name: Hima Lakkaraju
     website: https://himalakkaraju.github.io/
     title: Assistant Professor of Business and Computer Science
     affiliation: Harvard University
+    image: https://himalakkaraju.github.io/images/hima-2019.jpg
   - name: Stephen Pfohl
     website: https://spfohl.github.io/
     title: Senior Research Scientist
     affiliation: Google
-    
+    image: https://spfohl.github.io/images/yosemite_head.jpg
+  - name: Divyansh Kaushik
+    website: https://bgsdc.com/team/dr-divyansh-kaushik/
+    title: Vice President
+    affiliation: Beacon Global Strategies
+    image: "https://bgsdc.com/wp-content/uploads/2024/04/Kaushik_ivyansh_16311_3k-scaled-e1712668159839.jpg"
+gt:
+  - name: Alan Ritter
+    website: https://aritter.github.io/index.html
+    title: Associate Professor
+    affiliation: Georgia Tech
+    image: https://aritter.github.io/images/2X6A9220.jpeg
+  - name: Neha Kumar
+    website: https://www.nehakumar.org/
+    title: Associate Professor
+    affiliation: Georgia Tech
+    image: "https://images.squarespace-cdn.com/content/v1/59f549a3b7411c736b42936a/1ce5b50d-ade0-4500-8692-a91cb4495a46/neha+headshot+bw.jpeg"
+  - name: Munmun De Choudhury
+    website: http://www.munmund.net/
+    title: Associate Professor
+    affiliation: Georgia Tech
+    image: http://www.munmund.net/imgs/munmun-pic3.png
+  - name: Sonia Chernova
+    website: https://faculty.cc.gatech.edu/~chernova/
+    title: Associate Professor
+    affiliation: Georgia Tech
+    image: https://rail.gatech.edu/assets/images/soniachernova-2.jpeg
+  - name: Cindy Lin 
+    website: https://lincindy.com/
+    title: Stephen Fleming Early Career Assistant Professor
+    affiliation: Georgia Tech
+    image: "https://www.ic.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-09/cindylin.jpg"
+  - name: Clio Andris
+    website: http://friendlycities.gatech.edu/
+    title: Associate Professor, City and Regional Planning and Interactive Computing
+    affiliation: Georgia Tech
+    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-05/clio_andris_0.png"
+  - name: Naveena Karusala
+    website: https://naveenak.webflow.io/
+    title: Assistant Professor
+    affiliation: Georgia Tech
+    image: "https://cdn.prod.website-files.com/639b0dae43aecb68a1414854/66f2c4d2df2e0a8a4bc9a0b8_headshot.jpg"
