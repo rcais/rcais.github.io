@@ -22,9 +22,10 @@ toc: true
 <h1>Confirmed Speakers</h1>
 
 {% assign allspeakers = site.data.speakers.invited | concat: site.data.speakers.gt %}
+{% assign allspeakers2 = allspeakers | sort: 'name' %}
 
 <table>
-{% tablerow x in allspeakers cols:4 %}
+{% tablerow x in allspeakers2 cols:4 %}
 <div id="{{ x.name }}" style="text-align:center;">
 <img src="{{ x.image }}" style="height:100px;width:auto;"><br>
 <a href="{{ x.website }}">{{ x.name }}</a><br>

@@ -6,97 +6,99 @@ monday:
       activity: DC Dinner
 tuesday:
   - slots:
-    - time: "8:45"
+    - time: "8:30"
       activity: Welcome
-    - time: "9:00"
+    - time: "8:45"
       activity: Keynote 
       tracks:
         - name: Meredith Ringel Morris
-    - time: "10:30"
+    - time: "10:15"
       activity: Break
-    - time: "11:00"
+    - time: "10:45"
       activity: Invited talks
       tracks:
         - name: Solon Barocas
         - name: "Catherine D'Ignazio"
         - name: Milind Tambe
-    - time: "11:30"
+    - time: "11:15"
       activity: Invited talks
       tracks:
         - name: Alan Ritter
         - name: Neha Kumar
         - name: Cindy Lin
-    - time: "12:00"
+    - time: "11:45"
       activity: Discussions
-    - time: "12:15"
+    - time: "12:00"
       activity: Lunch
-    - time: "1:45"
+    - time: "1:15"
       activity: Keynote 
       tracks:
         - name: Tiffany Vienot
-    - time: "3:15"
+    - time: "2:45"
       activity: Break
-    - time: "3:45"
+    - time: "3:15"
       activity: Invited talks
       tracks:
         - name: Tal August
         - name: Desmond Patton
         - name: Pedro Lopes
-    - time: "4:15"
+    - time: "3:45"
       activity: Invited talks
       tracks:
         - name: TBA
         - name: Munmun De Choudhury
         - name: TBA
-    - time: "4:45"
+    - time: "4:15"
       activity: Discussions
-    - time: "5:00"
+    - time: "4:30"
+      activity: Short Break
+    - time: "4:45"
       activity: Invited talks
       tracks:
         - name: Hima Lakkaraju
         - name: Stephen Pfohl
         - name: Udit Gupta
-    - time: "5:30"
+    - time: "5:15"
       activity: Invited talks
       tracks: 
         - name: TBA
         - name: TBA
         - name: Clio Andris
-    - time: "6:00"
+    - time: "5:45"
       activity: Discussions
-    - time: "6:15"
+    - time: "6:00"
       activity: Reception and DC Posters
 wednesday:
   - slots:
-    - time: "8:45"
+    - time: "8:30"
       activity: Welcome
-    - time: "9:00"
+    - time: "8:45"
       activity: Keynote 
       tracks:
         - name: "Juno Salazar Parreñas"
-    - time: "10:30"
+    - time: "10:15"
       activity: Break
-    - time: "11:00"
+    - time: "10:45"
       activity: Invited talks
       tracks:
         - name: Jesse Thomason
         - name: Chinasa Okolo
         - name: Orly Lobel
-    - time: "11:30"
+    - time: "11:15"
       activity: Invited talks
       tracks:
         - name: Sonia Chernova
         - name: Naveena Karusala
-        - name: TBA
-    - time: "12:00"
+        - name: Deven Desai
+    - time: "11:45"
       activity: Discussions
-    - time: "12:15"
+    - time: "12:00"
       activity: Lunch
-    - time: "1:45"
+    - time: "1:15"
       activity: Invited talk 
       tracks:
         - name: Sorelle Friedler
-    - time: "2:15"
+    - time: "1:45"
       activity: Invited talk
       tracks:
         - name: Jake Metcalf
@@ -104,17 +106,23 @@ wednesday:
       activity: Invited talk 
       tracks:
         - name: Divyansh Kaushik
-    - time: "3:15"
+    - time: "2:15"
       activity: Discussion
-    - time: "3:30"
+    - time: "2:30"
       activity: Break
-    - time: "4:00"
+    - time: "3:00"
       activity: Invited talks
       tracks:
         - name: Jeff Bigham
+        - name: Divyansh Kaushik
+        - name: N/A
+    - time: "3:30"
+      activity: Invited talks
+      tracks: 
+        - name: TBA
         - name: Ellen Zegura
         - name: N/A
-    - time: "4:30"
+    - time: "4:00"  
       activity: Discussions
-    - time: "5:00"
+    - time: "4:15"
       activity: Closing 
