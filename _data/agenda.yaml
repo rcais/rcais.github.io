@@ -102,10 +102,6 @@ wednesday:
       activity: Invited talk
       tracks:
         - name: Jake Metcalf
-    - time: "2:45"
-      activity: Invited talk 
-      tracks:
-        - name: Divyansh Kaushik
     - time: "2:15"
       activity: Discussion
     - time: "2:30"
