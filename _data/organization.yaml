@@ -19,3 +19,8 @@ members:
     rank: Professor and Chair
     affiliation: School of Interactive Computing, Georgia Tech
     image: https://shaowenbardzell.com/wp-content/uploads/2013/07/bardzell-shaowen.jpeg
+  - name: Kartik Goyal
+    website: https://kartikgo.github.io/
+    rank: Assistant Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-10/kartik_goyal.jpg"
