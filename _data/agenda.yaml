@@ -17,13 +17,13 @@ tuesday:
     - time: "10:45"
       activity: Invited talks
       tracks:
-        - name: Solon Barocas
+        - name: Tal August
         - name: "Catherine D'Ignazio"
         - name: Milind Tambe
     - time: "11:15"
       activity: Invited talks
       tracks:
-        - name: Alan Ritter
+        - name: Chris Maclellan
         - name: Neha Kumar
         - name: Cindy Lin
     - time: "11:45"
@@ -39,13 +39,13 @@ tuesday:
     - time: "3:15"
       activity: Invited talks
       tracks:
-        - name: Tal August
+        - name: Solon Barocas
         - name: Desmond Patton
         - name: Pedro Lopes
     - time: "3:45"
       activity: Invited talks
       tracks:
-        - name: TBA
+        - name: Alan Ritter
         - name: Munmun De Choudhury
         - name: TBA
     - time: "4:15"
