@@ -89,7 +89,7 @@ wednesday:
       tracks:
         - name: Sonia Chernova
         - name: Naveena Karusala
-        - name: Deven Desai
+        - name: Divyansh Kaushik
     - time: "11:45"
       activity: Discussions
     - time: "12:00"
@@ -110,7 +110,7 @@ wednesday:
       activity: Invited talks
       tracks:
         - name: Jeff Bigham
-        - name: Divyansh Kaushik
+        - name: Deven Desai
         - name: N/A
     - time: "3:30"
       activity: Invited talks
