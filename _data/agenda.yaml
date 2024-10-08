@@ -81,13 +81,13 @@ wednesday:
     - time: "10:45"
       activity: Invited talks
       tracks:
-        - name: Jesse Thomason
+        - name: Jeff Bigham
         - name: Chinasa Okolo
         - name: Orly Lobel
     - time: "11:15"
       activity: Invited talks
       tracks:
-        - name: Sonia Chernova
+        - name: TBA
         - name: Naveena Karusala
         - name: Divyansh Kaushik
     - time: "11:45"
@@ -109,13 +109,13 @@ wednesday:
     - time: "3:00"
       activity: Invited talks
       tracks:
-        - name: Jeff Bigham
+        - name: Jesse Thomason
         - name: Deven Desai
         - name: N/A
     - time: "3:30"
       activity: Invited talks
       tracks: 
-        - name: TBA
+        - name: Sonia Chernova
         - name: Ellen Zegura
         - name: N/A
     - time: "4:00"  
