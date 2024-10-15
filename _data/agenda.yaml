@@ -1,9 +1,23 @@
 monday:
   - slots:
     - time: "11:30"
-      activity: Doctoral Consortium
+      activity: "Doctoral Consortium: Welcome"
+    - time: "12:00"
+      activity: "Lunch + meeting mentors"
+    - time: "1:30"
+      activity: "Lightning talks, part 1"
+    - time: "2:30"
+      activity: Break
+    - time: "2:45"
+      activity: "Lightnight talks, part 2"
+    - time: "3:45"
+      activity: Birds-of-a-feather groups
+    - time: "4:45"
+      activity: Break
+    - time: "5:00"
+      activity: Panel
     - time: "6:00"
-      activity: DC Dinner
+      activity: Doctoral Consortium Dinner
 tuesday:
   - slots:
     - time: "8:30"
