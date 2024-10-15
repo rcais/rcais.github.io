@@ -30,7 +30,7 @@ tuesday:
       activity: Discussions
     - time: "12:00"
       activity: Lunch
-    - time: "1:15"
+    - time: "1:30"
       activity: Keynote 
       tracks:
         - name: Tiffany Veinot
@@ -39,7 +39,7 @@ tuesday:
     - time: "3:15"
       activity: Invited talks
       tracks:
-        - name: Solon Barocas
+        - name: Jeff Bigham
         - name: Desmond Patton
         - name: Pedro Lopes
     - time: "3:45"
@@ -61,7 +61,7 @@ tuesday:
     - time: "5:15"
       activity: Invited talks
       tracks: 
-        - name: TBA
+        - name: Upol Ehsan
         - name: Rosa Arriaga
         - name: Clio Andris
     - time: "5:45"
@@ -70,9 +70,9 @@ tuesday:
       activity: Reception and DC Posters
 wednesday:
   - slots:
-    - time: "8:30"
-      activity: Welcome
     - time: "8:45"
+      activity: Welcome
+    - time: "9:00"
       activity: Keynote 
       tracks:
         - name: "Juno Salazar Parreñas"
@@ -81,44 +81,34 @@ wednesday:
     - time: "10:45"
       activity: Invited talks
       tracks:
-        - name: Jeff Bigham
+        - name: Jesse Thomason
         - name: Chinasa T. Okolo
         - name: Orly Lobel
     - time: "11:15"
       activity: Invited talks
       tracks:
-        - name: TBA
+        - name: Sonia Chernova
         - name: Naveena Karusala
         - name: Divyansh Kaushik
     - time: "11:45"
       activity: Discussions
     - time: "12:00"
       activity: Lunch
-    - time: "1:15"
-      activity: Invited talk 
+    - time: "1:30"
+      activity: Invited talk
       tracks:
         - name: Sorelle Friedler
-    - time: "1:45"
+    - time: "2:00"
       activity: Invited talk
       tracks:
         - name: Jake Metcalf
     - time: "2:15"
       activity: Discussion
     - time: "2:30"
-      activity: Break
-    - time: "3:00"
-      activity: Invited talks
+      activity: Invited talk
       tracks:
-        - name: Jesse Thomason
-        - name: Deven Desai
-        - name: N/A
-    - time: "3:30"
-      activity: Invited talks
-      tracks: 
-        - name: Sonia Chernova
         - name: Ellen Zegura
-        - name: N/A
-    - time: "4:00"  
-      activity: Discussions
-    - time: "4:15"
-      activity: Closing 
+    - time: "2:45"
+      activity: Discussion
+    - time: "3:00"
+      activity: Closing

@@ -33,11 +33,6 @@ invited:
     title: Gordon McKay Professor of Computer Science and Director of the Center for Research on Computation and Society 
     affiliation: Harvard University
     image: "https://teamcore.seas.harvard.edu/sites/projects.iq.harvard.edu/files/styles/os_files_medium/public/teamcore/files/img_people_tambe_page.jpg"
-  - name: Solon Barocas 
-    website: http://solon.barocas.org/
-    title: Principal Researcher, Fairness, Accountability, Transparency, and Ethics in AI (FATE)
-    affiliation: Microsoft Research
-    image: https://infosci.cornell.edu/sites/default/files/faculty-solon-barocas.jpeg
   - name: Jeff Bigham 
     website: https://www.cs.cmu.edu/~jbigham/
     title: Associate Professor
@@ -155,3 +150,15 @@ gt:
     title: Associate Professor
     website: https://sites.google.com/view/riarriaga/home
     image: https://dhjhkxawhe8q4.cloudfront.net/mit-press/wp-content/uploads/2022/05/27132418/Rosa_Arriaga-scaled.jpg
+  - name: Upol Ehsan
+    affiliation: Notheastern University
+    website: https://www.upolehsan.com/
+    title: Assistant Professor
+    image: https://datasociety.net/wp-content/uploads/2021/08/Upol-Headshot_cropped-825x1024.png
+misc:
+  - name: Solon Barocas 
+    website: http://solon.barocas.org/
+    title: Principal Researcher, Fairness, Accountability, Transparency, and Ethics in AI (FATE)
+    affiliation: Microsoft Research
+    image: https://infosci.cornell.edu/sites/default/files/faculty-solon-barocas.jpeg
+
