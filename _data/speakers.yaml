@@ -9,7 +9,7 @@ keynote:
     website: https://www.si.umich.edu/people/tiffany-veinot
     affiliation: University of Michigan
     title: Joan C Durrance Collegiate Professor of Information and Associate Dean of the School of Information 
-    talk: To be announced
+    talk: "How digital interventions can worsen health inequalities—and what we can do about it: The Equitable PRAXIS Method"
     image: "https://brand.amia.org/asset/381cc61a-5e62-4718-8e0c-71305470d418/Large_Square/Tiffany-Veinot"
   - name: Juno Salazar Parreñas
     website: https://sts.cornell.edu/juno-salazar-parrenas
@@ -22,6 +22,7 @@ invited:
     website: https://sp2.upenn.edu/person/desmond-upton-patton/
     title: Brian and Randi Schwartz University Professor
     affiliation: University of Pennsylvania 
+    talk: "AI for Gun Violence Prevention: Opportunities and Ethical Challenges"
     image: "https://sig.columbia.edu/sites/default/files/styles/cu_crop/public/content/Desmond.jpg.jpeg"
   - name: Pedro Lopes
     website: https://plopes.org/
@@ -53,6 +54,7 @@ invited:
     website: https://dusp.mit.edu/people/catherine-dignazio
     title: Associate Professor of Urban Science and Planning
     affiliation: MIT
+    talk: "Another AI is Possible"
     image: "https://dusp.mit.edu/sites/default/files/styles/square_crop/public/people-photos/dignazio_catherine.jpg"
   - name: Tal August
     website: https://talaugust.github.io/
@@ -64,6 +66,7 @@ invited:
     title: Research Fellow
     affiliation: The Brookings Institution
     image: https://chinasatokolo.github.io/images/cto-cis.jpeg
+    talk: "Policy Perspectives on Advancing Human-Centered AI for Global Health"
   - name: Ellen Zegura
     website: https://new.nsf.gov/staff/elzegura
     title: Division Director
@@ -84,10 +87,12 @@ invited:
     title: Assistant Professor of Business and Computer Science
     affiliation: Harvard University
     image: https://himalakkaraju.github.io/images/hima-2019.jpg
+    talk: "Towards Regulatable AI: Algorithms, Human Factors, and Policy Considerations"
   - name: Stephen Pfohl
     website: https://spfohl.github.io/
     title: Senior Research Scientist
     affiliation: Google
+    talk: "Algorithmic fairness and responsible AI for health equity"
     image: https://spfohl.github.io/images/yosemite_head.jpg
   - name: Divyansh Kaushik
     website: https://bgsdc.com/team/dr-divyansh-kaushik/
@@ -108,11 +113,13 @@ gt:
   - name: Neha Kumar
     website: https://www.nehakumar.org/
     title: Associate Professor
+    talk: "Post-growth X Health"
     affiliation: Georgia Tech
     image: "https://images.squarespace-cdn.com/content/v1/59f549a3b7411c736b42936a/1ce5b50d-ade0-4500-8692-a91cb4495a46/neha+headshot+bw.jpeg"
   - name: Munmun De Choudhury
     website: http://www.munmund.net/
     title: Associate Professor
+    talk: "The Meaning of Human Connection in a Post-AI World: Lessons from and for Digital Mental Health"
     affiliation: Georgia Tech
     image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-09/munmun_de_choudhury.jpg"
   - name: Sonia Chernova
@@ -148,6 +155,7 @@ gt:
   - name: Rosa Arriaga
     affiliation: Georgia Tech
     title: Associate Professor
+    talk: "Forms of Accountability at the Intersection of Science and Design: Implications from Human-Centered AI for Health and Wellness"
     website: https://sites.google.com/view/riarriaga/home
     image: https://dhjhkxawhe8q4.cloudfront.net/mit-press/wp-content/uploads/2022/05/27132418/Rosa_Arriaga-scaled.jpg
   - name: Upol Ehsan
