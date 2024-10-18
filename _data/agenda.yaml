@@ -22,7 +22,7 @@ tuesday:
   - slots:
     - time: "8:30"
       activity: Welcome
-    - time: "8:45"
+    - time: "9:00"
       activity: Keynote 
       tracks:
         - name: Meredith Ringel Morris
