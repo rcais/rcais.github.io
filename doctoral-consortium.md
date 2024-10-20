@@ -12,8 +12,10 @@ The Doctoral Consortium will provide opportunities to receive mentorship on the 
 
 <h1>Participants</h1>
 
+{% assign participants = site.data.dc.participants | sort: 'name' %}
+
 <table>
-{% tablerow x in site.data.dc.participants cols: 4 %}
+{% tablerow x in participants cols: 4 %}
 <div id="{{ x.name }}" style="text-align:center;">
 {% if x.image %}
 <img src="{{ x.image }}" style="height:200px;width:auto;"><br>
