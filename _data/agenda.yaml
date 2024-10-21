@@ -31,7 +31,7 @@ tuesday:
     - time: "10:45"
       activity: Invited talks
       tracks:
-        - name: Tal August
+        - name: Jeff Bigham
         - name: "Catherine D'Ignazio"
         - name: Milind Tambe
     - time: "11:15"
@@ -53,7 +53,7 @@ tuesday:
     - time: "3:15"
       activity: Invited talks
       tracks:
-        - name: Jeff Bigham
+        - name: Tal August
         - name: Desmond Patton
         - name: Pedro Lopes
     - time: "3:45"
