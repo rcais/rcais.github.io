@@ -81,3 +81,24 @@ participants:
     website: https://scholar.google.com/citations?user=xz3Ay8AAAAAJ&hl=en
     affiliation: Georgia Tech
     image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=xz3Ay8AAAAAJ&citpid=2
+mentors:
+  - name: Ding Wang
+    affiliation: Google Deep Mind
+    website: https://research.google/people/107654/?&type=google
+    title: Research Scientist
+  - name: Cindy Lin
+    affiliation: Georgia Tech
+    website: https://lincindy.com/
+    title: Stephen Fleming Early Career Assistant Professor
+  - name: Mark Riedl
+    affiliation: Georgia Tech
+    website: https://eilab.gatech.edu/mark-riedl.html
+    title: Professor
+  - name: Alex Adams
+    affiliation: Georgia Tech
+    website: https://www.alexandertadams.com/
+    title: Assistant Professor
+  - name: Lynn Dombrowski
+    affiliation: Georgia Tech
+    website: http://www.lynndombrowski.com/
+    title: Associate Professor

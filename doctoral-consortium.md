@@ -25,3 +25,14 @@ The Doctoral Consortium will provide opportunities to receive mentorship on the 
 </div>
 {% endtablerow %}
 </table>
+
+<h1>Mentors</h1>
+
+{% assign mentors = site.data.dc.mentors | sort: 'name' %}
+
+<ul>
+  {% for x in mentors %}
+  <li><a href="{{ x.website}} ">{{ x.name }}</a>, {{ x.title }}, {{ x.affiliation }}</li>
+  {% endfor %}
+</ul>
+
