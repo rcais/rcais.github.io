@@ -87,9 +87,15 @@ wednesday:
     - time: "8:45"
       activity: Welcome
     - time: "9:00"
-      activity: Keynote 
+      activity: Invited Talk 
       tracks:
-        - name: "Juno Salazar Parreñas"
+        - name: "Orly Lobel"
+    - time: "9:30"
+      activity: Invited Talk
+      tracks:
+        - name: Divyansh Kaushik
+    - time: "10:00"
+      activity: Discussion
     - time: "10:15"
       activity: Break
     - time: "10:45"
@@ -97,13 +103,12 @@ wednesday:
       tracks:
         - name: Jesse Thomason
         - name: Chinasa T. Okolo
-        - name: Orly Lobel
     - time: "11:15"
       activity: Invited talks
       tracks:
         - name: Sonia Chernova
         - name: Naveena Karusala
-        - name: Divyansh Kaushik
+        - name: 
     - time: "11:45"
       activity: Discussions
     - time: "12:00"
