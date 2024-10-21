@@ -117,10 +117,6 @@ wednesday:
       tracks:
         - name: Jake Metcalf
     - time: "2:30"
-      activity: Invited talk
-      tracks:
-        - name: Ellen Zegura
-    - time: "2:45"
       activity: Discussion
-    - time: "3:00"
+    - time: "2:45"
       activity: Closing

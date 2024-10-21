@@ -67,11 +67,6 @@ invited:
     affiliation: The Brookings Institution
     image: https://chinasatokolo.github.io/images/cto-cis.jpeg
     talk: "Policy Perspectives on Advancing Human-Centered AI for Global Health"
-  - name: Ellen Zegura
-    website: https://new.nsf.gov/staff/elzegura
-    title: Division Director
-    affiliation: National Science Foundation
-    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-05/ellen_zegura_0.png"
   - name: Jacob Metcalf
     website: https://datasociety.net/people/metcalf-jacob/
     title: Program Director, AI on the Ground
@@ -169,4 +164,9 @@ misc:
     title: Principal Researcher, Fairness, Accountability, Transparency, and Ethics in AI (FATE)
     affiliation: Microsoft Research
     image: https://infosci.cornell.edu/sites/default/files/faculty-solon-barocas.jpeg
+  - name: Ellen Zegura
+    website: https://new.nsf.gov/staff/elzegura
+    title: Division Director
+    affiliation: National Science Foundation
+    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-05/ellen_zegura_0.png"
 
