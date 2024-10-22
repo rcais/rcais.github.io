@@ -3,7 +3,11 @@ main:
     url: agenda/
   - title: "Speakers"
     url: speakers/
-  - title: "Registration"
-    url: registration/
+  - title: "Venue"
+    url: "location/"
+  - title: "Doctoral Consortium"
+    url: "doctoral-consortium/"
   - title: "Organization"
     url: organization/
+  - title: "Registration"
+    url: registration/

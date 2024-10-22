@@ -10,6 +10,18 @@ The Doctoral Consortium on Responsible Computing, AI, and Society will be held o
 
 The Doctoral Consortium will provide opportunities to receive mentorship on the crucial issues navigating research in responsible computing, AI, and policy.
 
+<h1>Schedule</h1>
+
+The Doctoral Consortium will be held in the Georgia Tech Hotel, Conference Room A.
+
+| Time | Activity | 
+|------|----------|
+{% for x in site.data.agenda.monday -%}
+{%- for y in x.slots -%}
+| {{ y.time }} | {{ y.activity }} | 
+{% endfor %}
+{% endfor %} 
+
 <h1>Participants</h1>
 
 {% assign participants = site.data.dc.participants | sort: 'name' %}
@@ -36,15 +48,5 @@ The Doctoral Consortium will provide opportunities to receive mentorship on the 
   {% endfor %}
 </ul>
 
-<h1>Schedule</h1>
 
-The Doctoral Consortium will be held in the Georgia Tech Hotel, Conference Room A.
-
-| Time | Activity | 
-|------|----------|
-{% for x in site.data.agenda.monday -%}
-{%- for y in x.slots -%}
-| {{ y.time }} | {{ y.activity }} | 
-{% endfor %}
-{% endfor %} 
 
