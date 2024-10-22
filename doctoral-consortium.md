@@ -40,7 +40,7 @@ The Doctoral Consortium will provide opportunities to receive mentorship on the 
 
 The Doctoral Consortium will be held in the Georgia Tech Hotel, Conference Room A.
 
-| Time | Activity (Hotel Conference Room A) | 
+| Time | Activity | 
 |------|----------|
 {% for x in site.data.agenda.monday -%}
 {%- for y in x.slots -%}

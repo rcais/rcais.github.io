@@ -23,3 +23,14 @@ toc: true
     {{ x.name }}, {{ x.title }}, {{ x.affiliation }}
   </p>
 {% endfor %}
+
+<h1>Staff Miracle Workers</h1>
+
+{% for x in site.data.organization.staff %}
+  <p>
+    {% if x.image %}
+    <img src="{{ x.image }}" width="100">
+    {% endif %}
+    {{ x.name }}, {{ x.title }}, {{ x.affiliation }}
+  </p>
+{% endfor %}

@@ -17,7 +17,7 @@ monday:
     - time: "5:00"
       activity: Panel
     - time: "6:00"
-      activity: Doctoral Consortium Dinner
+      activity: Doctoral Consortium Dinner (TSRB building, Interactive Computing Cafe, 2nd floor)
 tuesday:
   - slots:
     - time: "8:30"

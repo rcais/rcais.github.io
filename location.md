@@ -25,7 +25,7 @@ The Summit will be held in Rooms 222, 330 and 334. Proceed to Room 222 to check 
 <h1>Lunch Recommendations</h1>
 
 <ul>
-	<li><a href="https://www.avivabykameel.com/menu">Aviva by Kameel Midtown</a> -- Mediterranian</li>
+	<li><a href="https://www.avivabykameel.com/menu">Aviva by Kameel Midtown</a> -- Mediterranean</li>
 	<li><a href="https://www.humblemumbleatl.com/">Humble Mumble</a> -- Gourmet sandwiches</li>
 	<li><a href="https://www.pokeburri.com/">Poke Burri</a> -- poke</li>
 	<li><a href="https://atwoodspizzacafe.com/">Atwoods</a> -- Individual sized pizza</li>
