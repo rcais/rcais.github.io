@@ -19,7 +19,7 @@ toc: true
 </table>
 
 
-<h1>Confirmed Speakers</h1>
+<h1>Speakers</h1>
 
 {% assign allspeakers = site.data.speakers.invited | concat: site.data.speakers.gt %}
 {% assign allspeakers2 = allspeakers | sort: 'name' %}
