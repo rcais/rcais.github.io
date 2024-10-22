@@ -4,7 +4,11 @@ title: Agenda
 toc: true
 ---
 
-<font color="red"><em>The following schedule is tentative.</em></font>
+<h1>Agenda</h1>
+
+The Summit takes place at the <a href="/location">Georgia Tech Global Learning Center</a> on the 2nd and 3rd floors.
+
+<font color="red"><em>The following schedule is subject to change.</em></font>
 
 <h1>Monday October 28th: Doctoral Consortium</h1>
 
@@ -18,7 +22,7 @@ toc: true
 
 <h1>Tuesday October 29th: Main Summit</h1>
 
-| Time | Activity | Room 1 | Room 2 | Room 3 |
+| Time | Activity | Room 222 | Room 330 | Room 334 |
 |------|----------|--------|--------|--------|
 {% for x in site.data.agenda.tuesday -%}
 {%- for y in x.slots -%}
@@ -33,7 +37,7 @@ toc: true
 
 <h1>Wednesday October 30th: Main Summit</h1>
 
-| Time | Activity | Room 1 | Room 2 | Room 3 |
+| Time | Activity | Room 222 | Room 330 | Room 334 |
 |------|----------|--------|--------|--------|
 {% for x in site.data.agenda.wednesday -%}
 {% for y in x.slots -%}

@@ -21,7 +21,7 @@ The Summit will feature a <a href="doctoral-consortium/">Doctoral Consortium</a>
 
 <h1>Venue</h1>
 
-The Summit will take place at the <a href="https://pe.gatech.edu/global-learning-center">Georgia Tech Global Learning Center</a> in Midtown Atlanta, Georgia. It is connected to the Georgia Tech Hotel and minutes from the School of Interactive Computing and the GT Machine Learning Center.
+The Summit will take place at the <a href="/location">Georgia Tech Global Learning Center</a> in Midtown Atlanta, Georgia. It is connected to the Georgia Tech Hotel and minutes from the School of Interactive Computing and the GT Machine Learning Center.
 
 <a href="location/">Directions, Parking, Maps, Nearby lunch options</a>
 
