@@ -6,7 +6,7 @@ toc: true
 
 <h1>Doctoral Consortium</h1>
 
-The Doctoral Consortium on Responsible Computing, AI, and Society will be held on October 28th at the Global Learning Center on Georgia Tech campus.
+The Doctoral Consortium on Responsible Computing, AI, and Society will be held on October 28th in the Georgia Tech Hotel on Georgia Tech campus, Conference Room A.
 
 The Doctoral Consortium will provide opportunities to receive mentorship on the crucial issues navigating research in responsible computing, AI, and policy.
 
@@ -35,4 +35,16 @@ The Doctoral Consortium will provide opportunities to receive mentorship on the 
   <li><a href="{{ x.website}} ">{{ x.name }}</a>, {{ x.title }}, {{ x.affiliation }}</li>
   {% endfor %}
 </ul>
+
+<h1>Schedule</h1>
+
+The Doctoral Consortium will be held in the Georgia Tech Hotel, Conference Room A.
+
+| Time | Activity (Hotel Conference Room A) | 
+|------|----------|
+{% for x in site.data.agenda.monday -%}
+{%- for y in x.slots -%}
+| {{ y.time }} | {{ y.activity }} | 
+{% endfor %}
+{% endfor %} 
 

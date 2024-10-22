@@ -12,7 +12,9 @@ The Summit takes place at the <a href="/location">Georgia Tech Global Learning C
 
 <h1>Monday October 28th: Doctoral Consortium</h1>
 
-| Time | Activity | 
+The <a href="/doctoral-consortium">Doctoral Consortium</a> will be held in the Georgia Tech Hotel, Conference Room A. It is connected to the Global Learning Center on the 2nd floor.
+
+| Time | Activity (Hotel Conference Room A) | 
 |------|----------|
 {% for x in site.data.agenda.monday -%}
 {%- for y in x.slots -%}
