@@ -114,11 +114,11 @@ gt:
     talk: "The Meaning of Human Connection in a Post-AI World: Lessons from and for Digital Mental Health"
     affiliation: Georgia Tech
     image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-09/munmun_de_choudhury.jpg"
-  - name: Sonia Chernova
-    website: https://faculty.cc.gatech.edu/~chernova/
-    title: Associate Professor
+  - name: Matthew Gombolay
+    website: https://core-robotics.gatech.edu/
+    title: Assistant Professor
     affiliation: Georgia Tech
-    image: https://rail.gatech.edu/assets/images/soniachernova-2.jpeg
+    image: http://sites.gatech.edu/mcg-lab/wp-content/uploads/sites/958/2019/01/Gombolay.jpg
   - name: Cindy Lin 
     website: https://lincindy.com/
     title: Stephen Fleming Early Career Assistant Professor
@@ -167,4 +167,8 @@ misc:
     title: Division Director
     affiliation: National Science Foundation
     image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-05/ellen_zegura_0.png"
-
+  - name: Sonia Chernova
+    website: https://faculty.cc.gatech.edu/~chernova/
+    title: Associate Professor
+    affiliation: Georgia Tech
+    image: https://rail.gatech.edu/assets/images/soniachernova-2.jpeg
