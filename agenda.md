@@ -37,7 +37,7 @@ function toggleBibtex(obj) {
 	position:absolute;
 	overflow: hidden;
 	z-index:2400;
-	width: 500px;
+	width: 250px;
 }	
 </style>
 

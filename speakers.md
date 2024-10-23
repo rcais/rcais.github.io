@@ -25,7 +25,7 @@ toc: true
 {% assign allspeakers2 = allspeakers | sort: 'name' %}
 
 <table>
-{% tablerow x in allspeakers2 cols:4 %}
+{% tablerow x in allspeakers2 cols:3 %}
 <div id="{{ x.name }}" style="text-align:center;">
 <img src="{{ x.image }}" style="height:100px;width:auto;"><br>
 <a href="{{ x.website }}">{{ x.name }}</a><br>
@@ -34,6 +34,9 @@ toc: true
 </div>
 {% if x.talk %}
 <blockquote><strong>Title:</strong> {{ x.talk }}</blockquote>
+{% else %}
+<blockquote><strong>Title:</strong> TBA</blockquote>
+
 {% endif %}
 {% endtablerow %}
 </table>
