@@ -61,7 +61,6 @@ tuesday:
       tracks:
         - name: Alan Ritter
         - name: Munmun De Choudhury
-        - name: TBA
     - time: "4:15"
       activity: Discussions
     - time: "4:30"
@@ -119,7 +118,7 @@ wednesday:
     - time: "2:00"
       activity: Invited talk
       tracks:
-        - name: Jake Metcalf
+        - name: Jacob Metcalf
     - time: "2:30"
       activity: Discussion
     - time: "2:45"
