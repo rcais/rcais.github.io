@@ -40,3 +40,19 @@ toc: true
 {% endif %}
 {% endtablerow %}
 </table>
+
+<h1>Discussants</h1>
+
+{% assign disc = site.data.speakers.discussants | sort: 'name' %}
+
+<table>
+{% tablerow x in disc cols:4 %}
+<div id="{{ x.name }}" style="text-align:center;">
+<img src="{{ x.image }}" style="height:100px;width:auto;"><br>
+<a href="{{ x.website }}">{{ x.name }}</a><br>
+{{ x.title }}<br>
+{{ x.affiliation }}
+</div>
+{% endtablerow %}
+</table>
+

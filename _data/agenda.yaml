@@ -9,7 +9,7 @@ monday:
     - time: "2:30"
       activity: Break
     - time: "2:45"
-      activity: "Lightnight talks, part 2"
+      activity: "Lightning talks, part 2"
     - time: "3:45"
       activity: Birds-of-a-feather groups
     - time: "4:45"
@@ -42,6 +42,10 @@ tuesday:
         - name: Cindy Lin
     - time: "11:45"
       activity: Discussions
+      tracks: 
+        - name: TBA
+        - name: "Jennifer Kim"
+        - name: TBA
     - time: "12:00"
       activity: Lunch
     - time: "1:30"
@@ -61,8 +65,13 @@ tuesday:
       tracks:
         - name: Alan Ritter
         - name: Munmun De Choudhury
+        - name: Heidi Biggs
     - time: "4:15"
       activity: Discussions
+      tracks:
+        - name: Kartik Goyal
+        - name: Betsy Disalvo
+        - name: TBA
     - time: "4:30"
       activity: Short Break
     - time: "4:45"
@@ -79,6 +88,10 @@ tuesday:
         - name: Clio Andris
     - time: "5:45"
       activity: Discussions
+      tracks:
+        - name: Sonia Chernova
+        - name: Alex Adams
+        - name: TBA
     - time: "6:00"
       activity: Reception and DC Posters
 wednesday:
@@ -95,6 +108,8 @@ wednesday:
         - name: Divyansh Kaushik
     - time: "10:00"
       activity: Discussion
+      tracks:
+        - name: Deven Desai
     - time: "10:15"
       activity: Break
     - time: "10:45"
@@ -109,6 +124,9 @@ wednesday:
         - name: Naveena Karusala
     - time: "11:45"
       activity: Discussions
+      tracks: 
+        - name: Zsolt Kira
+        - name: TBA
     - time: "12:00"
       activity: Lunch
     - time: "1:30"
@@ -121,5 +139,7 @@ wednesday:
         - name: Jacob Metcalf
     - time: "2:30"
       activity: Discussion
+      tracks:
+        - name: Naveena Karusala
     - time: "2:45"
       activity: Closing

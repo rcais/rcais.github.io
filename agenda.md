@@ -87,14 +87,18 @@ Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for a
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				{% else %}
 					{% for z in y.tracks %}
-						{% assign r = allspeakers | where:"name", z.name | first %}
-						<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
-						{% assign n = z.name | smartify%}
-						<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
-						{% if r.talk != nil %}
-							<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
+						{% if y.activity contains "Discuss" %}
+							<td><font style="font-size:10pt;">Discussant: {{ z.name }}</font></td>
+						{% else %}
+							{% assign r = allspeakers | where:"name", z.name | first %}
+							<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
+							{% assign n = z.name | smartify%}
+							<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
+							{% if r.talk != nil %}
+								<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
+							{% endif %}
+							</td>
 						{% endif %}
-						</td>
 					{% endfor %}
 				{% endif %}
 			</tr>
@@ -117,15 +121,19 @@ Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for a
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				{% else %}
 					{% for z in y.tracks %}
-						{% assign r = allspeakers | where:"name", z.name | first %}
-						{% assign bar = foo.talk %}
-						<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
-						{% assign n = z.name | smartify%}
-						<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
-						{% if r.talk != nil %}
-							<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
+						{% if y.activity contains "Discuss" %}
+							<td><font style="font-size:10pt;">Discussant: {{ z.name }}</font></td>
+						{% else %}
+							{% assign r = allspeakers | where:"name", z.name | first %}
+							{% assign bar = foo.talk %}
+							<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
+							{% assign n = z.name | smartify%}
+							<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
+							{% if r.talk != nil %}
+								<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
+							{% endif %}
+							</td>
 						{% endif %}
-						</td>
 					{% endfor %}
 				{% endif %}
 
