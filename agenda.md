@@ -5,22 +5,29 @@ toc: true
 ---
 <script type="text/javascript"> 
 function toggleBibtex(obj) { 
-	console.log(obj)
-	var id = obj;
+	var elems = document.body.getElementsByTagName("*");
+	var i = 0;
+	for (i =0; i < elems.length; i++) {
+		var classname = elems[i].className;
+		if (elems[i].id != obj && (classname == "talk" || classname == 'affil')) {
+			elems[i].style.display = "none";
+		}
+	}
 	element = document.getElementById(obj)
-	console.log(element);
 	if (element.style.display == "none") {
 		element.style.display="block";
 	}
 	else {
 		element.style.display="none";
 	} 
+	 
+
 }
 </script>
 
 <style type="text/css" src="bibs.css">
-.bibbutton {
-	font-size: small;
+.talkbutton {
+	font-size: 8pt;
 	background-color: black;
 	color: white;
 	border: 1px solid black;
@@ -28,11 +35,22 @@ function toggleBibtex(obj) {
 	text-decoration-color: white;
 	border-radius: 2px;
 }
-.bibtex {
+.talk {
 	white-space: pre-wrap;
 	background: #ffffff;
 	color: red;
 	border: 1px dotted red;
+	width: 75%;
+	position:absolute;
+	overflow: hidden;
+	z-index:2400;
+	width: 250px;
+}	
+.affil {
+	white-space: pre-wrap;
+	background: #ffffff;
+	color: blue;
+	border: 1px dotted blue;
 	width: 75%;
 	position:absolute;
 	overflow: hidden;
@@ -69,11 +87,12 @@ Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for a
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				{% else %}
 					{% for z in y.tracks %}
-						{% assign foo = allspeakers | where:"name", z.name | first %}
-						{% assign bar = foo.talk %}
+						{% assign r = allspeakers | where:"name", z.name | first %}
 						<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
-						{% if bar != nil %}
-							<a onclick="toggleBibtex('{{ z.name }}');"><span class="bibbutton">talk</span></a><div class="bibtex" id="{{ z.name }}" style="display: none;">{{ bar }}</div>
+						{% assign n = z.name | smartify%}
+						<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
+						{% if r.talk != nil %}
+							<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
 						{% endif %}
 						</td>
 					{% endfor %}
@@ -98,15 +117,18 @@ Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for a
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				{% else %}
 					{% for z in y.tracks %}
-						{% assign foo = allspeakers | where:"name", z.name | first %}
+						{% assign r = allspeakers | where:"name", z.name | first %}
 						{% assign bar = foo.talk %}
 						<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
-						{% if bar != nil %}
-							<a onclick="toggleBibtex('{{ z.name }}');"><span class="bibbutton">title</span></a><div class="bibtex" id="{{ z.name }}" style="display: none;">{{ bar }}</div>
+						{% assign n = z.name | smartify%}
+						<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
+						{% if r.talk != nil %}
+							<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
 						{% endif %}
 						</td>
 					{% endfor %}
 				{% endif %}
+
 			</tr>
 		{% endfor %}
 	{% endfor %}
