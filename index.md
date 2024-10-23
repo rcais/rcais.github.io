@@ -6,7 +6,16 @@ header:
   overlay_filter: 0.5
 show_overlay_excerpt: true
 author:
-  avatar   : "assets/logo.png"
+  name     : Georgia Tech 
+  bio      : School of Interactive Computing
+  avatar   : "https://brand.gatech.edu/sites/default/files/inline-images/sm-primary-vert.png"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ic.gatech.edu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ICatGT"
 ---
 
 The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computing</a> is hosting the Summit on Responsible Computing, AI, and Society, October 28-30, 2024.
