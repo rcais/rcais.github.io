@@ -44,6 +44,7 @@ invited:
     website: http://sorelle.friedler.net/
     title: Shibulal Family Professor of Computer Science
     affiliation: Haverford College
+    talk: "From Principles to Practice: current U.S. federal AI policy and what comes next"
     image: "https://www.haverford.edu/sites/default/files/styles/profile_thumbnail/public/sorelle.jpg"
   - name: "Catherine D'Ignazio" 
     website: https://dusp.mit.edu/people/catherine-dignazio
@@ -218,6 +219,11 @@ discussants:
     affiliation: Carnegie Mellon University
     website: https://www.christinaharrington.me/
     image: https://images.squarespace-cdn.com/content/v1/5928b37020099e2f4bf8b485/32c8fe5c-b657-4698-b0e9-65a6ed4d4544/DSC_3632+copy.jpg
+  - name: Ari Schlesinger 
+    title: Assistant Professor
+    affiliation: University of Georgia
+    website: https://arischlesinger.com/
+    image: "https://csci.franklin.uga.edu/sites/default/files/styles/square_400x400/public/Ari_COVER_SQUARE.png?itok=iMrSO9KD"
 misc:
   - name: Solon Barocas 
     website: http://solon.barocas.org/
