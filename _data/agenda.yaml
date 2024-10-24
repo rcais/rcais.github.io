@@ -24,6 +24,7 @@ tuesday:
       activity: Welcome
     - time: "9:00"
       activity: Keynote 
+      discussant: Mark Riedl
       tracks:
         - name: Meredith Ringel Morris
     - time: "10:15"
@@ -50,6 +51,7 @@ tuesday:
       activity: Lunch
     - time: "1:30"
       activity: Keynote 
+      discussant: Andrea Parker
       tracks:
         - name: Tiffany Veinot
     - time: "2:45"

@@ -97,6 +97,9 @@ Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for a
 							{% if r.talk != nil %}
 								<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
 							{% endif %}
+							{% if y.activity contains "Keynote" %}
+								<br><font style="font-size:10pt;">Discussant: {{ y.discussant }}</font>
+							{% endif %}							
 							</td>
 						{% endif %}
 					{% endfor %}
@@ -131,6 +134,9 @@ Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for a
 							<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
 							{% if r.talk != nil %}
 								<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
+							{% endif %}
+							{% if y.activity contains "Keynote" %}
+								<br><font style="font-size:10pt;">Discussant: {{ y.discussant }}</font>
 							{% endif %}
 							</td>
 						{% endif %}
