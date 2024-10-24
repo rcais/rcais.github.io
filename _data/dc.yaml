@@ -63,10 +63,6 @@ participants:
     website: https://maithili.github.io/
     affiliation: Georgia Tech
     image: https://maithili.github.io/assets/img/profile.jpg
-  - name: Grace Barkhuff
-    website: https://gracebarkhuff.com/
-    affiliation: Georgia Tech
-    image: https://gracebarkhuff.com/assets/headshot.jpg
   - name: Jasmine Foriest
     website: https://www.jcforiest.com/
     affiliation: Georgia Tech
@@ -102,3 +98,7 @@ mentors:
     affiliation: Georgia Tech
     website: https://sites.google.com/view/riarriaga/home
     title: Associate Professor
+  - name: Beki Grinter
+    affiliation: Georgia Tech
+    website: https://faculty.cc.gatech.edu/~beki/Beki.html
+    title: Professor
