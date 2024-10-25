@@ -38,7 +38,7 @@ tuesday:
     - time: "11:15"
       activity: Invited talks
       tracks:
-        - name: Chris Maclellan
+        - name: Chris MacLellan
         - name: Neha Kumar
         - name: Cindy Lin
     - time: "11:45"
