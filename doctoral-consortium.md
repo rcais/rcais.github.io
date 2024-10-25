@@ -38,7 +38,7 @@ The Doctoral Consortium will be held in the Georgia Tech Hotel, Conference Room 
 {% endtablerow %}
 </table>
 
-<h1>Mentors</h1>
+<h1>Mentors and Panelists</h1>
 
 {% assign mentors = site.data.dc.mentors | sort: 'name' %}
 
