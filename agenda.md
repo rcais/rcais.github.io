@@ -63,7 +63,7 @@ function toggleBibtex(obj) {
 
 The Summit takes place at the <a href="/location">Georgia Tech Global Learning Center</a> on the 2nd and 3rd floors.
 
-<p><font color="red"><em>The following schedule is subject to change.</em></font></p>
+
 
 <h1>Monday October 28th: Doctoral Consortium</h1>
 
