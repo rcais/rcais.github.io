@@ -98,6 +98,7 @@ invited:
   - name: Udit Gupta
     website: https://ugupta.com/
     title: Assistant Professor
+    title: "Sustainable AI: Challenges, Implications, and Opportunities"
     affiliation: Cornell Tech
     image: https://ugupta.com/assets/images/uditgupta.jpeg
 gt:
@@ -127,6 +128,7 @@ gt:
   - name: Cindy Lin 
     website: https://lincindy.com/
     title: Stephen Fleming Early Career Assistant Professor
+    talk: "An Alternative AI from the Monocrop World"
     affiliation: Georgia Tech
     image: "https://www.ic.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2024-09/cindylin.jpg"
   - name: Clio Andris

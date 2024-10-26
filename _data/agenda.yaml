@@ -46,7 +46,7 @@ tuesday:
       tracks: 
         - name: Ari Schlesinger
         - name: "Jennifer Kim"
-        - name: TBA
+        - name: Josiah Hester
     - time: "12:00"
       activity: Lunch
     - time: "1:30"
@@ -73,7 +73,7 @@ tuesday:
       tracks:
         - name: Kartik Goyal
         - name: Betsy DiSalvo
-        - name: TBA
+        - name: Neha Kumar
     - time: "4:30"
       activity: Short Break
     - time: "4:45"
@@ -93,7 +93,7 @@ tuesday:
       tracks:
         - name: Sonia Chernova
         - name: Alex Adams
-        - name: TBA
+        - name: Cindy Lin
     - time: "6:00"
       activity: Reception and DC Posters
 wednesday:
