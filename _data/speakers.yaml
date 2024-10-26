@@ -122,6 +122,7 @@ gt:
     website: https://core-robotics.gatech.edu/
     title: Associate Professor
     affiliation: Georgia Tech
+    talk: "Explainable AI in Neurology Decision Support: Empowering Tool or Double-edged Sword?"
     image: http://sites.gatech.edu/mcg-lab/wp-content/uploads/sites/958/2019/01/Gombolay.jpg
   - name: Cindy Lin 
     website: https://lincindy.com/
@@ -229,6 +230,11 @@ discussants:
     affiliation: University of Georgia
     website: https://arischlesinger.com/
     image: "https://csci.franklin.uga.edu/sites/default/files/styles/square_400x400/public/Ari_COVER_SQUARE.png?itok=iMrSO9KD"
+  - name: Chinmay Kulkarni
+    title: Associate Professor, Emory University
+    affiliation: Research Scientist, Google
+    website: https://www.linkedin.com/in/chinmayk/
+    image: https://io.google/2023/speakers/f5d69be3-d7e1-47a7-a05f-d21a00489790_500.webp
 misc:
   - name: Solon Barocas 
     website: http://solon.barocas.org/
