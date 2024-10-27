@@ -121,7 +121,7 @@ wednesday:
         - name: Chinasa T. Okolo
     - time: "11:15"
       activity: Invited talks
-      tracks:
+      tracks: 
         - name: Matthew Gombolay
         - name: Naveena Karusala
     - time: "11:45"
