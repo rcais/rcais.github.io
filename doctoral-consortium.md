@@ -27,7 +27,7 @@ The Doctoral Consortium will be held in the Georgia Tech Hotel, Conference Room 
 {% assign participants = site.data.dc.participants | sort: 'name' %}
 
 <table>
-{% tablerow x in participants cols: 4 %}
+{% tablerow x in participants cols: 3 %}
 <div id="{{ x.name }}" style="text-align:center;">
 {% if x.image %}
 <img src="{{ x.image }}" style="height:200px;width:auto;"><br>
