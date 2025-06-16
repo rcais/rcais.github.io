@@ -32,7 +32,6 @@ The Summit will feature a Doctoral Consortium, which will offer Ph.D. students o
 
 The Summit will take place at the Georgia Tech Academy of Medicine historical building in Midtown Atlanta, Georgia. It is very near to the School of Interactive Computing and the GT Machine Learning Center.
 
-<a href="location/">Directions, Parking, Maps, Nearby lunch options</a>
 
 
 
