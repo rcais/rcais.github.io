@@ -1,13 +1,11 @@
 main:
+  - title: "Call"
+    url: cfp/
   - title: "Agenda"
-    url: 
-  - title: "Speakers"
-    url: 
-  - title: "Venue"
-    url: 
+    url: agenda/
+  - title: "Location"
+    url: location/
   - title: "Doctoral Consortium"
-    url: 
+    url: doctoral-consortium/ 
   - title: "Organization"
-    url: 
-  - title: "Registration"
-    url: 
+    url: organization/

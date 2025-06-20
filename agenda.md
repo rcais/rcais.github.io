@@ -61,90 +61,11 @@ function toggleBibtex(obj) {
 
 <h1>Agenda</h1>
 
-The Summit takes place at the <a href="/location">Georgia Tech Global Learning Center</a> on the 2nd and 3rd floors.
+The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday October 27 to Wednesday October 28, 2025.
 
+Schedule at a glance:
+- Monday October 27th: Doctoral Consortium
+- Tuesday October 28th: Keynote, contributor presentations, working sessions.
+- Wednesday October 29th: Contributor presentations
 
-
-<h1>Monday October 28th: Doctoral Consortium</h1>
-
-The Doctoral Consortium will be held in the Georgia Tech Hotel, Conference Room A. It is connected to the Global Learning Center on the 2nd floor.
-
-Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for agenda.
-
-
-<h1>Tuesday October 29th: Main Summit</h1>
-
-{% assign allspeakers = site.data.speakers.invited | concat: site.data.speakers.gt | concat: site.data.speakers.keynote %}
-
-<table width="100%" border=1 frame=void rules=rows>
-	<tr><th>Time</th><th>Activity</th><th>Room 222</th><th>Room 330</th><th>Room 334</th></tr>
-	{% for x in site.data.agenda.tuesday %}
-		{% for y in x.slots %}
-			<tr>
-				<td>{{ y.time }}</td>
-				<td>{{ y.activity }}</td>
-				{% if y.tracks == nil %}
-					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-				{% else %}
-					{% for z in y.tracks %}
-						{% if y.activity contains "Discuss" %}
-							<td><font style="font-size:10pt;">Discussant: {{ z.name }}</font></td>
-						{% else %}
-							{% assign r = allspeakers | where:"name", z.name | first %}
-							<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
-							{% assign n = z.name | smartify%}
-							<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
-							{% if r.talk != nil %}
-								<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
-							{% endif %}
-							{% if y.activity contains "Keynote" %}
-								<br><font style="font-size:10pt;">Discussant: {{ y.discussant }}</font>
-							{% endif %}							
-							</td>
-						{% endif %}
-					{% endfor %}
-				{% endif %}
-			</tr>
-		{% endfor %}
-	{% endfor %}
-</table>
-
-
-
-<h1>Wednesday October 30th: Main Summit</h1>
-
-<table width="100%" border=1 frame=void rules=rows>
-	<tr><th>Time</th><th>Activity</th><th>Room 222</th><th>Room 330</th></tr>
-	{% for x in site.data.agenda.wednesday %}
-		{% for y in x.slots %}
-			<tr>
-				<td>{{ y.time }}</td>
-				<td>{{ y.activity }}</td>
-				{% if y.tracks == nil %}
-					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-				{% else %}
-					{% for z in y.tracks %}
-						{% if y.activity contains "Discuss" %}
-							<td><font style="font-size:10pt;">Discussant: {{ z.name }}</font></td>
-						{% else %}
-							{% assign r = allspeakers | where:"name", z.name | first %}
-							{% assign bar = foo.talk %}
-							<td><a href="/speakers/index.html#{{z.name}}">{{ z.name }}</a>
-							{% assign n = z.name | smartify%}
-							<a onclick="toggleBibtex('{{ n }} bio');"><span class="talkbutton">bio</span></a><div class="affil" id="{{ n }} bio" style="display: none;">{{ r.title }}, {{ r.affiliation }}</div>
-							{% if r.talk != nil %}
-								<a onclick="toggleBibtex('{{ n }} talk');"><span class="talkbutton">talk</span></a><div class="talk" id="{{ n }} talk" style="display: none;">{{ r.talk }}</div>
-							{% endif %}
-							{% if y.activity contains "Keynote" %}
-								<br><font style="font-size:10pt;">Discussant: {{ y.discussant }}</font>
-							{% endif %}
-							</td>
-						{% endif %}
-					{% endfor %}
-				{% endif %}
-
-			</tr>
-		{% endfor %}
-	{% endfor %}
-</table>
-
+Details forthcoming.

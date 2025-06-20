@@ -4,23 +4,11 @@ title: Location
 toc: true
 ---
 
-<img src="https://georgiatechaudiovisual.blob.core.windows.net/classweb/media/building/iw7mJf4XlSWK_760x302_XtmUHaxN.jpg">
+<h1>Location</h1>
 
-<h1>Venue</h1>
+<img src=https://en.wikipedia.org/wiki/Academy_of_Medicine_(Atlanta)#/media/File:Academy_of_Medicine,_Atlanta_straighten.jpg>
 
-The Summit will take place at the <a href="https://pe.gatech.edu/global-learning-center">Georgia Tech Global Learning Center</a> in Midtown Atlanta, Georgia. It is connected to the Georgia Tech Hotel and minutes from the School of Interactive Computing and the GT Machine Learning Center.
-
-<a href="https://pe.gatech.edu/global-learning-center/directions">Driving directions and parking</a>
-
-From Fifth Street, enter between the Amazon Storefront and Great Clips. 
-
-You can also enter through the Georgia Tech hotel, 2nd floor.
-
-From the Georgia Tech parking garage, there is an entrance to the Global Learning Center from the 2nd floor.
-
-The Summit will be held in Rooms 222, 330 and 334. Proceed to Room 222 to check in. 
-
-<img src="/assets/map.png">
+The Summit will take place at the <a href="https://studentcenter.gatech.edu/historic-academy-medicine">Georgia Tech Historic Academy of Medicine Building</a> in Midtown Atlanta, Georgia. It is adjacent to Georgia Tech Campus, minutes from the School of Interactive Computing, and the GT Machine Learning Center.
 
 <h1>Lunch Recommendations</h1>
 
