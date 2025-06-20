@@ -15,16 +15,9 @@ toc: true
 
 <h1>Student Volunteers</h1>
 
-{% for x in site.data.organization.volunteers %}
-  <p>
-    {% if x.image %}
-    <img src="{{ x.image }}" width="100">
-    {% endif %}
-    {{ x.name }}, {{ x.title }}, {{ x.affiliation }}
-  </p>
-{% endfor %}
+TBD
 
-<h1>Staff Miracle Workers</h1>
+<h1>Miracle Workers</h1>
 
 {% for x in site.data.organization.staff %}
   <p>

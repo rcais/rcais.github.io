@@ -58,7 +58,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "2025 Summit on Responsible Computing, AI, and Society"
 title_separator          : "-"
-subtitle                 : "October 28-30, 2025, Atlanta, Georgia, USA" # site tagline that appears below site title in masthead
+subtitle                 : "October 27-29, 2025, Atlanta, Georgia, USA" # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "2025 Summit on Responsible Computing, AI, and Society"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

@@ -18,7 +18,7 @@ author:
       url: "https://twitter.com/ICatGT"
 ---
 
-The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computing</a> is hosting the <strong>2025 Summit on Responsible Computing, AI, and Society</strong>, October 28-30, 2025.
+The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computing</a> is hosting the <strong>2025 Summit on Responsible Computing, AI, and Society</strong>, October 27-29, 2025.
 
 <h1>Overview</h1>
 
