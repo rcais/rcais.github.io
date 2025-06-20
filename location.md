@@ -6,7 +6,7 @@ toc: true
 
 <h1>Location</h1>
 
-<img src=https://en.wikipedia.org/wiki/Academy_of_Medicine_(Atlanta)#/media/File:Academy_of_Medicine,_Atlanta_straighten.jpg>
+<img src="https://en.wikipedia.org/wiki/Academy_of_Medicine_(Atlanta)#/media/File:Academy_of_Medicine,_Atlanta_straighten.jpg">
 
 The Summit will take place at the <a href="https://studentcenter.gatech.edu/historic-academy-medicine">Georgia Tech Historic Academy of Medicine Building</a> in Midtown Atlanta, Georgia. It is adjacent to Georgia Tech Campus, minutes from the School of Interactive Computing, and the GT Machine Learning Center.
 
