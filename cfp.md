@@ -18,6 +18,7 @@ The 2025 Summit will be held on Tuesday October 28th and Wednesday October 29th 
 - Value alignment seeks to design AI systems that are helpful, honest, and harmless; what considerations are missing, and/or how should these concepts be extended? 
 - Future of work, leisure, and education: how should we be thinking about integrating computing technologies and AI into various aspects of human life? 
 - What research challenges or problems in responsible human-AI interaction are being overlooked or under-explored? 
+- What communities and groups have been ignored or marginalized by AI– why, how, and what are our pathways for authentic inclusion throughout the lifecycle of AI?
 
 Other related topics will be considered as well. We seek contributions from a diverse set of disciplines including but not limited to computing science, engineering, policy and governance, law, social sciences, psychology, communications, health, education, sustainability, natural language processing, computer vision, fairness, accountability, transparency, explainability, agents, human-computer interaction, human-centered computing, robotics, agents, the Humanities and the Arts, design, and science and technology studies.  
 
