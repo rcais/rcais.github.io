@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/davinci2.jpg
+  overlay_image: /assets/davinci-splash.png
   overlay_filter: 0.5
 show_overlay_excerpt: true
 author:
