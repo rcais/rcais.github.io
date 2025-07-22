@@ -64,8 +64,10 @@ function toggleBibtex(obj) {
 The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday October 27 to Wednesday October 28, 2025.
 
 Schedule at a glance:
-- Monday October 27th: Doctoral Consortium
+- Monday October 27th: Doctoral Consortium.
 - Tuesday October 28th: Keynote, contributor presentations, working sessions.
-- Wednesday October 29th: Contributor presentations
+- Wednesday October 29th: Contributor presentations.
 
 Details forthcoming.
+
+<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" /> On Wednesday October 29th at 3:00pm the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. We hope you will join us for that.
