@@ -8,7 +8,7 @@ toc: true
 
 Research in responsible computing and AI can involve interdisciplinary, multidisciplinary, and transdisciplinary work, which provide extra challenges to an already challenging doctoral career trajectory.
 
-Doctoral students in areas related to responsible computing, responsible AI, human-AI interaction, and policy who are admitted to the Doctoral Consortium will received 1:1 and small-group mentorship from established responsible computing and AI faculty, opportunities for networking and establishing themselves as future voices in the area. We also plan career skill development sessions, such as proposal writing. 
+The Doctoral Consortium will take place on October 27th, 2025. Doctoral students in areas related to responsible computing, responsible AI, human-AI interaction, and policy who are admitted to the Doctoral Consortium will received 1:1 and small-group mentorship from established responsible computing and AI faculty, opportunities for networking and establishing themselves as future voices in the area. We also plan career skill development sessions, such as proposal writing. Consortium participants will also be expected to present at a poster session on October 28th during the main Summit event, and to participate in interactive visioning sessions during the main Summit event.
 
 Doctoral students in responsible computing, responsible AI, human-centered AI, human-AI interaction, policy, and related areas are encouraged to apply using the <a href="https://forms.office.com/r/fKhU6QFkR2">Application Form</a>. Your advisor will be need to submit a 1-page reference letter to <a href="mailto:riedl@gatech.edu">Mark Riedl</a> and <a href="mailto:kartikgo@gatech.edu">Kartik Goyal</a>.
 

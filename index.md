@@ -37,7 +37,7 @@ Dr. Rumman Chowdhury’s passion lies at the intersection of artificial intellig
 
 <h1>Doctoral Consortium</h1>
 
-The Summit will feature a Doctoral Consortium, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. 
+The Summit will feature a Doctoral Consortium on October 27th, 2025, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. 
 
 Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for information about how to apply.
 
