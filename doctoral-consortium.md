@@ -18,3 +18,7 @@ We especially encourage Doctoral students who are just before their thesis propo
 
 We also especially encourage Doctoral students who are working in labs that operate from a different epistemic backgroud than that of the student. For example, a student with a traditional CS training working in a policy lab (or vice versa), or a student with traditional HCI training working in an AI lab (or vice versa).
 
+Other strong candidates are welcome and will be fully considered.
+
+Applicants selected for participation in the Consortium will have their flights, lodging, and other travel expenses covered (US only; sorry, our funds have restrictions).
+
