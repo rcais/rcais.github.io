@@ -49,6 +49,10 @@ The Summit will take place at the Georgia Tech Academy of Medicine historical bu
 
 <img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" /> On Wednesday October 29th at 3:00pm the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. AIAI is an organization that aims to bring the city of Atlanta, with its historical place in the civil rights movement, to current conversations about the biases embedded in our AI systems. It is a humanities-forward organization that seeks an equitable, ethical, and justice-oriented approach to AI where humanistic ways of thinking come together with technical knowledge and community expertise.
 
+<h1>Stay in Touch</h1>
+
+If you would like to receive updates about the current or future Summits, you can <a href="https://forms.office.com/r/pD7sWN7Ff8">add yourself to our mailing list</a>. 
+
 
 <h1>Sponsors</h1>
 
