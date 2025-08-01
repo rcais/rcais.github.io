@@ -61,6 +61,7 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
 | Sponsors                                      |   | 
 |-----------------------------------------------|---|
 |<img src="assets/ic-logo.png" width="300"> | <a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a> |
+|<img scr="assets/carc.png" width="300"> | <a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a>
 
 <h1>Previous Summits</h1>
 
