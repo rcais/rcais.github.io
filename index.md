@@ -60,10 +60,10 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
 
 | Sponsors                                      |   | 
 |-----------------------------------------------|---|
-|<img src="assets/ic-logo.png" width="300"> | <a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a> |
-|<img src="assets/carc.png" width="300"> | <a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a> |
-| <img src="assets/ai-hub.png" width="200"> | <a href="https://ai.gatech.edu/">The AI Hub at Georgia Tech</a> |
-|<img src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png" width="150"> | <a href="https://www.nsf.gov/">National Science Foundation |
+|<img src="assets/ic-logo.png" height="100"> | <a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a> |
+|<img src="assets/carc.png" height="100"> | <a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a> |
+| <img src="assets/ai-hub.png" height="100"> | <a href="https://ai.gatech.edu/">The AI Hub at Georgia Tech</a> |
+|<img src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png" height="100"> | <a href="https://www.nsf.gov/">National Science Foundation |
 
 <h1>Previous Summits</h1>
 
