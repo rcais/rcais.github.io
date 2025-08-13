@@ -6,7 +6,7 @@ toc: true
 
 <h1>Call for Contributions:</h1>
 
-**Update: The Deadline for Contributions has been extended to August 31, 2025.**
+<font style="color: red;"><b>Update: The Deadline for Contributions has been extended to August 31, 2025.</b></font>
 
 The IC Summit Series on [Responsible Computing, AI, and Society](https://rcais.github.io/) aims to explore the future of AI, ML, and computer vision for health, sustainability, education, and policy. The world is at an inflection point where artificial intelligence touches the lives of millions, if not billions, on a daily basis. We can no longer afford to ignore the moral and societal impacts of researching and developing computing and, especially, artificial intelligence technologies. Technology, policy, and the study of humans at the personal and societal levels can no longer remain siloed. What does it mean to develop a discipline around the responsible design, development, and deployment of computing and AI? What does it mean to design, develop, and deploy technologies responsibly? To whom are we responsible? The Summit aims to bring together luminary researchers in these areas and intersections to lay out the frontiers of these critical fields, and to plot out how they must evolve. 
 
@@ -30,9 +30,9 @@ Selected contributions will be presented at the Summit, Tuesday October 28th or 
 
 To submit an abstract, please visit the [submission management site](https://chairingtool.com/conferences/rcais2025/main-track?role=author). 
 
-**Due date:** August 31, 2025 **Updated**
+**Due date:** August 31, 2025 <font style="color: red;"><b>Updated</b></font>
 
-**Notification:** September 15, 2025 **Updated**
+**Notification:** September 15, 2025 <font style="color: red;"><b>Updated</b></font>
 
 Tips for preparation: 
 

@@ -26,7 +26,7 @@ The Summit on Responsible Computing, AI, and Society aims to explore the future 
 
 Please see the <a href="/cfp">Call for Contributions</a>
 
-<b>Update: The deadline for contributions has been extended to Sunday, August 31st.</b>
+<font style="color:red;"><b>Update: The deadline for contributions has been extended to Sunday, August 31st.</b></font>
 
 <h1>Keynote Speaker</h1>
 
