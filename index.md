@@ -26,6 +26,8 @@ The Summit on Responsible Computing, AI, and Society aims to explore the future 
 
 Please see the <a href="/cfp">Call for Contributions</a>
 
+<b>Update: The deadline for contributions has been extended to Sunday, August 31st.</b>
+
 <h1>Keynote Speaker</h1>
 
 <b><a href="https://www.rummanchowdhury.com/">Rumman Chowdhury, Ph.D.</a></b>
@@ -33,7 +35,7 @@ Please see the <a href="/cfp">Call for Contributions</a>
 Title: TBA
 
 <img src="https://static.wixstatic.com/media/cdba2c_b9ff8859f8de4ea0a67d525f328eadde~mv2.jpeg/v1/fill/w_634,h_634,fp_0.47_0.39,lg_1,q_85,enc_avif,quality_auto/Headshot%20-%20Rumman%20Chowdhury.jpeg" align="left" width="300" />
-Dr. Rumman Chowdhury’s passion lies at the intersection of artificial intelligence and humanity. She is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. She is CEO and co-founder of Humane Intelligence, and the first person to be appointed by the Department of State as the United States Science Envoy for Artificial Intelligence. Previously, Dr. Chowdhury was the Director of META (ML Ethics, Transparency, and Accountability) team at Twitter, leading a team of applied researchers and engineers to identify and mitigate algorithmic harms on the platform. Prior to Twitter, she was CEO and founder of Parity, an enterprise algorithmic audit platform company. She formerly served as Global Lead for Responsible AI at Accenture Applied Intelligence. In her work as Accenture’s Responsible AI lead, she led the design of the Fairness Tool, a first-in-industry algorithmic tool to identify and mitigate bias in AI systems. She is an active contributor to discourse around responsible technology. Chowdhury holds two undergraduate degrees from MIT, a master's degree in Quantitative Methods of the Social Sciences from Columbia University, and a doctorate in political science from the University of California, San Diego.
+Dr. Rumman Chowdhury is a data scientist and social scientist. She is the Co-founder of the tech nonprofit Humane Intelligence, which builds a community of practice around evaluations of AI models. She was appointed by the Biden Administration as the first United States Science Envoy for Artificial Intelligence. Dr. Chowdhury is also Responsible AI Fellow at Harvard University’s Berkman Klein Center for Internet and Society. Previously, Dr. Chowdhury was the Director of the ML Ethics, Transparency, and Accountability (META) team at Twitter, as well as the Global Lead for Responsible AI at Accenture Applied Intelligence. She was named one of Time's 100 most Influential People in AI, BBC’s 100 Women, Worthy Magazine's Top 100, recognized as one of the Bay Area’s top 40 under 40 and named by Forbes as one of Five Who are Shaping AI. Chowdhury holds two undergraduate degrees from MIT, a master's degree in Quantitative Methods of the Social Sciences from Columbia University, and a doctorate in political science from the University of California, San Diego.
 
 <h1>Doctoral Consortium</h1>
 
