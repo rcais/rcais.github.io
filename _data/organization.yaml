@@ -24,6 +24,11 @@ members:
     title: Assistant Professor
     affiliation: School of Interactive Computing, Georgia Tech
     image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-10/kartik_goyal.jpg"
+  - name: Chris MacLellan
+    website: https://chrismaclellan.com/
+    title: Assistant Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: "https://chrismaclellan.com/personal/profile_pic.jpeg"
 volunteers:
   - name: Amal Alabdulkarim
     title: PhD Student
