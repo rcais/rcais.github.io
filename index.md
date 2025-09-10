@@ -60,20 +60,16 @@ If you would like to receive updates about the current or future Summits, you ca
 
 The Summit graciously thanks its sponsors for proving support for the Doctoral Consortium.
 
+<h2>Primary Sponsor</h2>
 <table width="100%">
-  <th>
-    Primary Sponsor
-  </th>
   <tr>
     <td><img src="assets/ic-logo.png" width="300"></td>
     <td><a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a></td>
   </tr>
 </table>
 
+<h2>Gold Sponsors</h2>
 <table width="100%">
-  <th>
-    Gold Sponsors
-  </th>
   <tr>
     <td><img src="assets/carc.png" width="300"></td>
     <td><a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a></td>
@@ -92,10 +88,8 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
   </tr>
 </table>
 
+<h2>Silver Sponsors</h2>
 <table width="100%">
-  <th>
-    Silver Sponsors
-  </th>
   <tr>
     <td><img src="assets/microsoft.jpg" width="150"></td>
     <td><a href="https://www.microsoft.com/">Microsoft</a></td>
