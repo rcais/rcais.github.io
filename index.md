@@ -62,18 +62,17 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
 
 <table width="100%">
   <th>
-    <td> Primary Sponsor </td>
-    <td></td>
+    Primary Sponsor
   </th>
   <tr>
     <td><img src="assets/ic-logo.png" width="300"></td>
     <td><a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a></td>
   </tr>
 </table>
+
 <table width="100%">
   <th>
-    <td>Gold Sponsors</td>
-    <td></td>
+    Gold Sponsors
   </th>
   <tr>
     <td><img src="assets/carc.png" width="300"></td>
@@ -95,8 +94,7 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
 
 <table width="100%">
   <th>
-    <td>Silver Sponsors</td>
-    <td></td>
+    Silver Sponsors
   </th>
   <tr>
     <td><img src="assets/microsoft.jpg" width="150"></td>
