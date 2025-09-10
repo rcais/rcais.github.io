@@ -83,7 +83,7 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
     <td><a href="https://www.nsf.gov/">National Science Foundation</a></td>
   </tr>
   <tr>
-    <td><img src="assets/google.png" width="150"></td>
+    <td><img src="assets/google.png" width="200"></td>
     <td><a href="https://www.google.com/">Google</a></td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
 <h2>Silver Sponsors</h2>
 <table width="100%">
   <tr>
-    <td><img src="assets/microsoft.jpg" width="150"></td>
+    <td><img src="assets/microsoft.jpg" width="200"></td>
     <td><a href="https://www.microsoft.com/">Microsoft</a></td>
   </tr>
 </table>
