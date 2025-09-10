@@ -60,21 +60,49 @@ If you would like to receive updates about the current or future Summits, you ca
 
 The Summit graciously thanks its sponsors for proving support for the Doctoral Consortium.
 
-| Primary Sponsor    | <div style="width:290px">&nbsp;</div>  | 
-|-----------------------------------------------|---|
-|<img src="assets/ic-logo.png" width="300"> | <a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a> |
+<table width="100%">
+  <th>
+    <td> Primary Sponsor </td>
+    <td></td>
+  </th>
+  <tr>
+    <td><img src="assets/ic-logo.png" width="300"></td>
+    <td><a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a></td>
+  </tr>
+</table>
+<table width="100%">
+  <th>
+    <td>Gold Sponsors</td>
+    <td></td>
+  </th>
+  <tr>
+    <td><img src="assets/carc.png" width="300"></td>
+    <td><a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/ai-hub.png" width="200"></td>
+    <td><a href="https://ai.gatech.edu/">The AI Hub at Georgia Tech</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png" width="150"></td>
+    <td><a href="https://www.nsf.gov/">National Science Foundation</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/google.png" width="150"></td>
+    <td><a href="https://www.google.com/">Google</a></td>
+  </tr>
+</table>
 
-| Gold Sponsors | <div style="width:290px">&nbsp;</div>|
-|-----------------------------------------------|---|
-|<img src="assets/carc.png" width="300"> | <a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a> |
-| <img src="assets/ai-hub.png" width="200"> | <a href="https://ai.gatech.edu/">The AI Hub at Georgia Tech</a> |
-|<img src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png" width="150"> | <a href="https://www.nsf.gov/">National Science Foundation |
-| <img src="assets/google.png" width="150"> | <a href="https://www.google.com/">Google |
-
-
-| Silver Sponsors | <div style="width:290px">&nbsp;</div> |
-|-----------------------------------------------|---|
-| <img src="assets/microsoft.jpg" width="150"> | <a href="https://www.microsoft.com/">Microsoft |
+<table width="100%">
+  <th>
+    <td>Silver Sponsors</td>
+    <td></td>
+  </th>
+  <tr>
+    <td><img src="assets/microsoft.jpg" width="150"></td>
+    <td><a href="https://www.microsoft.com/">Microsoft</a></td>
+  </tr>
+</table>
 
 <h1>Previous Summits</h1>
 
