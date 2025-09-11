@@ -69,6 +69,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 
 <h2>Tuesday October 28, 2025</h2>
 
+| Time | Activity |
 |---|---|
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:30 | Keynote Presentation: Dr. Rumman Chowdhury |
@@ -85,6 +86,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 
 <h2>Wednesday October 29, 2025</h2>
 
+| Time | Activity |
 |---|---|
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:15 | Session 5: three talks (TBA) and a speaker panel |
