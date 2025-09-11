@@ -63,11 +63,38 @@ function toggleBibtex(obj) {
 
 The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday October 27 to Wednesday October 28, 2025.
 
-Schedule at a glance:
-- Monday October 27th: Doctoral Consortium.
-- Tuesday October 28th: Keynote, contributor presentations, working sessions.
-- Wednesday October 29th: Contributor presentations.
+<h2>Monday October 27, 2025</h2>
 
-Details forthcoming.
+Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Consortium</a>. The Doctoral Consortium is a closed-door event reserved for doctoral participants, mentors, and other invited guests. Doctoral consortium participants will present their work during the poster session on Tuesday.
 
-<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" /> On Wednesday October 29th at 3:00pm the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. We hope you will join us for that.
+<h2>Tuesday October 28, 2025</h2>
+
+|---|---|
+| 9:00 - 9:15 | Welcome |
+| 9:15 - 10:30 | Keynote Presentation: Dr. Rumman Chowdhury |
+| 10:30 - 10:45 | Break |
+| 10:45 - 11:45 | Session 1: three talks (TBA) and a speaker panel |
+| 11:45 - 1:30 | Catered lunch and interactive activity |
+| 1:30 - 2:30 | Session 2: three talks (TBA) and a speaker panel |
+| 2:30 - 3:30 | Poster session and refreshments |
+| 3:30 - 4:30 | Session 3: three talks (TBA) and a speaker panel |
+| 4:30 - 4:40 | Break |
+| 4:40 - 5:40 | Session 4: three talks (TBA) and a speaker panel |
+| 5:40 | Adjourn for the day. Dinner on own |
+|---|---|
+
+<h2>Wednesday October 29, 2025</h2>
+
+|---|---|
+| 9:00 - 9:15 | Welcome |
+| 9:15 - 10:15 | Session 5: three talks (TBA) and a speaker panel |
+| 10:15 - 10:30 | Break |
+| 10:30 - 11:30 | Session 6: three talks (TBA) and a speaker panel |
+| 11:30 - 12:00 | Concluding remarks |
+| 12:00 | Officially adjourn |
+|---|---|
+
+We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.  
+
+<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 3pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. We hope you will join us for that.
+
