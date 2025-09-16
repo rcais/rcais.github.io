@@ -61,7 +61,7 @@ function toggleBibtex(obj) {
 
 <h1>Agenda</h1>
 
-The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday October 27 to Wednesday October 28, 2025.
+The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday October 27 to Wednesday October 29, 2025.
 
 <h2>Monday October 27, 2025</h2>
 
