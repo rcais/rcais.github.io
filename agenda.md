@@ -74,10 +74,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:30 | Keynote Presentation: Dr. Rumman Chowdhury |
 | 10:30 - 10:45 | Break |
-| 10:45 - 11:45 | Session 1: Education in the Era of AI 
-				  <li>Ashok Goel, Georgia Tech, title TBD</li>
-				  <li>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"</li>
-				  <li>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education"</li>
+| 10:45 - 11:45 | Session 1: Education in the Era of AI<br>Ashok Goel, Georgia Tech, title TBD<br>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"<br>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education" |
 | 11:45 - 1:30 | Catered lunch and interactive activity |
 | 1:30 - 2:30 | Session 2: three talks (TBA) and a speaker panel |
 | 2:30 - 3:30 | Poster session and refreshments |
