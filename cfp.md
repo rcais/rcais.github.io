@@ -6,7 +6,8 @@ toc: true
 
 <h1>Call for Contributions:</h1>
 
-<font style="color: red;"><b>Update: The Deadline for Contributions has been extended to August 31, 2025.</b></font>
+<font style="color: red;"><b>The Call for Contributions is now closed.</b> You may register using the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>.</font> 
+
 
 The IC Summit Series on [Responsible Computing, AI, and Society](https://rcais.github.io/) aims to explore the future of AI, ML, and computer vision for health, sustainability, education, and policy. The world is at an inflection point where artificial intelligence touches the lives of millions, if not billions, on a daily basis. We can no longer afford to ignore the moral and societal impacts of researching and developing computing and, especially, artificial intelligence technologies. Technology, policy, and the study of humans at the personal and societal levels can no longer remain siloed. What does it mean to develop a discipline around the responsible design, development, and deployment of computing and AI? What does it mean to design, develop, and deploy technologies responsibly? To whom are we responsible? The Summit aims to bring together luminary researchers in these areas and intersections to lay out the frontiers of these critical fields, and to plot out how they must evolve. 
 

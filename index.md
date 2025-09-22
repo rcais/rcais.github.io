@@ -26,7 +26,9 @@ The Summit on Responsible Computing, AI, and Society aims to explore the future 
 
 Please see the <a href="/cfp">Call for Contributions</a>
 
-<font style="color:red;"><b>Update: The deadline for contributions has been extended to Sunday, August 31st.</b></font>
+<h1>Registration</h1>
+
+Please use the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>.
 
 <h1>Keynote Speaker</h1>
 

@@ -63,6 +63,8 @@ function toggleBibtex(obj) {
 
 The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday October 27 to Wednesday October 29, 2025.
 
+<a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>
+
 <h2>Monday October 27, 2025</h2>
 
 Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Consortium</a>. The Doctoral Consortium is a closed-door event reserved for doctoral participants, mentors, and other invited guests. Doctoral consortium participants will present their work during the poster session on Tuesday.

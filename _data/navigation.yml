@@ -3,6 +3,8 @@ main:
     url: cfp/
   - title: "Agenda"
     url: agenda/
+  - title: "Registration"
+    url: https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607
   - title: "Location"
     url: location/
   - title: "Doctoral Consortium"
