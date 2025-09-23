@@ -80,7 +80,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 11:45 - 1:30 | Catered lunch and interactive activity |
 | 1:30 - 2:30 | **Session 2: Creativity and Computation**<br>Brian Magerko, Georgia Tech, Title TBD<br>Irfan Essa, Google and Georgia Tech, Title TBD<br>Anna Huang, MIT, Title TBD |
 | 2:30 - 3:30 | Poster session and refreshments |
-| 3:30 - 4:30 | **Session 3: Health**<br><br>Jennifer Kim, Georgia Tech, Title TBD<br>    Rumi Chunara, New York University, "A Bifocal Vision for Responsible AI: Linking Data and Knowledge for Healthy Communities"<br>More speakers forthcoming |
+| 3:30 - 4:30 | **Session 3: Health**<br>Jennifer Kim, Georgia Tech, Title TBD<br>    Rumi Chunara, New York University, "A Bifocal Vision for Responsible AI: Linking Data and Knowledge for Healthy Communities"<br>More speakers forthcoming |
 | 4:30 - 4:40 | Break |
 | 4:40 - 5:40 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, Title TBD<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>More speaker forthcoming<!--Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse"--> |
 | 5:40 | Adjourn for the day. Dinner on own |
