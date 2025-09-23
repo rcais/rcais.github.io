@@ -15,7 +15,7 @@ Academy of Medicine address: 875 W Peachtree Street NW, Atlanta, GA 30309
 
 [Directions](https://studentcenter.gatech.edu/parking-and-directions-aom)
 
-Parking: 
+**Parking:** 
 
 - There is a parking lot directly behind the building. There is a $5 flat rate from 6 a.m. - 7:59 p.m. and $10 flat rate from 8 p.m. - 6 a.m.
 - You can also park in the Tech Square Deck attached to the Georgia Tech Hotel at 770 Spring Street. It is about a five minute walk from the venue. The rate is $18 for more than a 4-hour stay.
