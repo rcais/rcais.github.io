@@ -105,7 +105,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | Time | Activity |
 |---|---|
 | 9:00 - 9:15 | Welcome |
-| 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, Title TBD<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, Title TBD |
+| 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, Title TBD |
 | 10:15 - 10:30 | Break |
 | 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, Title TBD<br>Cindy Lin and Allen Hyde, Georgia Tech, Title TBD<!--Pedro Reynolds-Cuellar, MIT, Ttile TBD--> |
 | 11:30 - 12:00 | Concluding remarks |
