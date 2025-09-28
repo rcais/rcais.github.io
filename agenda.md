@@ -80,11 +80,25 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 11:45 - 1:30 | Catered lunch and interactive activity |
 | 1:30 - 2:30 | **Session 2: Creativity and Computation**<br>Brian Magerko, Georgia Tech, Title TBD<br>Irfan Essa, Google and Georgia Tech, Title TBD<br>Anna Huang, MIT, Title TBD |
 | 2:30 - 3:30 | Poster session and refreshments |
-| 3:30 - 4:30 | **Session 3: Health**<br>Jennifer Kim, Georgia Tech, Title TBD<br>    Rumi Chunara, New York University, "A Bifocal Vision for Responsible AI: Linking Data and Knowledge for Healthy Communities"<br>More speakers forthcoming |
+| 3:30 - 4:30 | **Session 3: Health**<br>Jennifer Kim, Georgia Tech, Title TBD<br>    Rumi Chunara, New York University, "A Bifocal Vision for Responsible AI: Linking Data and Knowledge for Healthy Communities"<br>Naveena Karusala, Georgia Tech, Title TBD |
 | 4:30 - 4:40 | Break |
-| 4:40 - 5:40 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, Title TBD<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>More speaker forthcoming<!--Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse"--> |
+| 4:40 - 5:40 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, Title TBD<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>More speaker forthcoming<br>Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse" |
 | 5:40 | Adjourn for the day. Dinner on own |
 |---|---|
+
+**Posters**
+- Alice Oh, KAIST, "Multiple languages and cultures: from challenges to solutions for LLMs"
+- Upol Ehsan, Northeastern University, "The Algorithmic Imprint"
+- Xiaoming Huo, Georgia Tech, "An Analytical Framework to Precisely Characterize the Accuracy-Fairness Trade-off in Fair Representation Learning"
+- Angel Hwang, University of Southern California, "Advancing Human Subjects Research to Advance Human-Centered AI: Repurposing Behavioral Experimentation as Driver of Responsible AI Design"
+- Sanaz Ahmadzadeh Siyahrood and Michael Hoffmann, Georgia Tech, "User-Engaged Responsible AI Design: A Method"
+- Sina Rismanchian, Peter Liu, and Shayan Doroudi, University of California, Irvine, "The Role of Intellectual Virtues in the Age of Generative AI" 
+- Juba Ziana, Georgia Tech, "How do Humans Respond to High-Stake AI-Driven Decision-Making? On Fairness and Societal Impact"
+- DeBrae Kennedy-Mayo and Jake Gord, Georgia Tech, "Beyond Democracy?: AI and the Rule of Law, Separation of Powers, and Individual Rights"
+- Steven Luo and Camille Crittenden, University of California, Berkeley, "Inclusive, Interdisciplinary, and Scalable Models for Building University-Centered Responsible AI Communities"
+- Samir Passi and Shipi Dhanorkar, Microsoft, "The Human Oversight of Agentic Systems Is Currently Near Impossible, but It Does Not Have to Stay That Way"
+- Desiree B. Junfijiah, Independent Researcher, "AI Catastrophic Risk and the Politics of Disposability: What We Owe Beyond the Margins"
+- Neil Gaikwad, University of North Carolina, "Public Interest AI: The Democracy-Performance Paradox" 
 
 <h2>Wednesday October 29, 2025</h2>
 
@@ -93,7 +107,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, Title TBD<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, Title TBD |
 | 10:15 - 10:30 | Break |
-| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, Title TBD<br>Cindy Lin and Allen Hyde, Georgia Tech, Title TBD<br>More speakers forthcoming<!--Pedro Reynolds-Cuellar, MIT, Ttile TBD--> |
+| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, Title TBD<br>Cindy Lin and Allen Hyde, Georgia Tech, Title TBD<!--Pedro Reynolds-Cuellar, MIT, Ttile TBD--> |
 | 11:30 - 12:00 | Concluding remarks |
 | 12:00 | Officially adjourn |
 |---|---|
