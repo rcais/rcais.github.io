@@ -89,7 +89,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 **Posters**
 - Alice Oh, KAIST, "Multiple languages and cultures: from challenges to solutions for LLMs"
 - Upol Ehsan, Northeastern University, "The Algorithmic Imprint"
-- Xiaoming Huo, Georgia Tech, "An Analytical Framework to Precisely Characterize the Accuracy-Fairness Trade-off in Fair Representation Learning"
+- Yijin Ni, Xiaoming Huo, Georgia Tech, "An Analytical Framework to Precisely Characterize the Accuracy-Fairness Trade-off in Fair Representation Learning"
 - Angel Hwang, University of Southern California, "Advancing Human Subjects Research to Advance Human-Centered AI: Repurposing Behavioral Experimentation as Driver of Responsible AI Design"
 - Sanaz Ahmadzadeh Siyahrood and Michael Hoffmann, Georgia Tech, "User-Engaged Responsible AI Design: A Method"
 - Sina Rismanchian, Peter Liu, and Shayan Doroudi, University of California, Irvine, "The Role of Intellectual Virtues in the Age of Generative AI" 
