@@ -12,13 +12,7 @@ The Doctoral Consortium will take place on October 27th, 2025. Doctoral students
 
 ## Monday, October 27th 2025
  
-10:00	Welcome
-10:15	Lightning Talks (10 minute break halfway through)
-12:00	Lunch + meeting mentors
-1:15	Panel
-2:15	birds-of-a-feather
-3:15	break
-3:30	NSF proposal tutorial
+
 
 | Time | Activity |
 |---|---|
