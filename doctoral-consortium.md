@@ -10,6 +10,31 @@ Research in responsible computing and AI can involve interdisciplinary, multidis
 
 The Doctoral Consortium will take place on October 27th, 2025. Doctoral students in areas related to responsible computing, responsible AI, human-AI interaction, and policy who are admitted to the Doctoral Consortium will received 1:1 and small-group mentorship from established responsible computing and AI faculty, opportunities for networking and establishing themselves as future voices in the area. We also plan career skill development sessions, such as proposal writing. Consortium participants will also be expected to present at a poster session on October 28th during the main Summit event, and to participate in interactive visioning sessions during the main Summit event.
 
+## Monday, October 27th 2025
+ 
+10:00	Welcome
+10:15	Lightning Talks (10 minute break halfway through)
+12:00	Lunch + meeting mentors
+1:15	Panel
+2:15	birds-of-a-feather
+3:15	break
+3:30	NSF proposal tutorial
+
+| Time | Activity |
+|---|---|
+| 10:00 - 10:15 | Welcome |
+| 10:15 - 12:00 | Lightning Talks (10 minute break halfway through) |
+| 12:00 - 1:00 | Lunch with Mentors |
+| 1:15 - 2:15 | Career Panel |
+| 2:15 - 2:30 | Break |
+| 2:30 - 3:30 | Birds-of-a-feather small group sessions with mentors |
+| 3:30 - 3:45 | Break |
+| 3:45 - 5:15 | Proposal Writing Tutorial |
+| 5:15 | Adjourn for the day |
+|---|---|
+
+# Call For Participation (Closed)
+
 Doctoral students in responsible computing, responsible AI, human-centered AI, human-AI interaction, policy, and related areas are encouraged to apply using the <a href="https://forms.office.com/r/fKhU6QFkR2">Application Form</a>. Your advisor will be need to submit a 1-page reference letter to <a href="mailto:riedl@gatech.edu">Mark Riedl</a> and <a href="mailto:kartikgo@gatech.edu">Kartik Goyal</a>.
 
 Applications before September 15, 2025 will receive full consideration.
