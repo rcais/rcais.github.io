@@ -99,6 +99,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 - Samir Passi and Shipi Dhanorkar, Microsoft, "The Human Oversight of Agentic Systems Is Currently Near Impossible, but It Does Not Have to Stay That Way"
 - Desiree B. Junfijiah, Independent Researcher, "AI Catastrophic Risk and the Politics of Disposability: What We Owe Beyond the Margins"
 - Neil Gaikwad, University of North Carolina, "Public Interest AI: The Democracy-Performance Paradox" 
+- Zeyu Yan, University of Maryland, "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques"
 
 <h2>Wednesday October 29, 2025</h2>
 
