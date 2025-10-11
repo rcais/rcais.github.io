@@ -12,20 +12,22 @@ The Doctoral Consortium will take place on October 27th, 2025. Doctoral students
 
 ## Monday, October 27th 2025
  
+The Doctoral Consortium will take place in the TSRB Building, 85 Fifth Street NW, Atlanta.
 
-
-| Time | Activity |
-|---|---|
-| 10:00 - 10:15 | Welcome |
-| 10:15 - 12:00 | Lightning Talks (10 minute break halfway through) |
-| 12:00 - 1:00 | Lunch with Mentors |
-| 1:15 - 2:15 | Career Panel |
-| 2:15 - 2:30 | Break |
-| 2:30 - 3:30 | Birds-of-a-feather small group sessions with mentors |
-| 3:30 - 3:45 | Break |
-| 3:45 - 5:15 | Proposal Writing Tutorial |
-| 5:15 | Adjourn for the day |
-|---|---|
+| Time | Location | Activity |
+|---|---|---|
+| 10:00 - 10:15 | TSRB 223 | Welcome |
+| 10:15 - 10:55 | TSRB 223 | Lightning Talks |
+| 10:55 - 11:05 |  | Quick Break |
+| 11:05 - 12:00 | GVU Cafe | Lightning Talks |
+| 12:00 - 1:00 | GVU Cafe | Lunch with Mentors |
+| 1:15 - 2:15 | GVU Cafe | Career Panel |
+| 2:15 - 2:30 | | Break |
+| 2:30 - 3:30 | GVU Cafe | Birds-of-a-feather small group sessions with mentors |
+| 3:30 - 3:45 | | Break |
+| 3:45 - 5:15 | GVU Cafe | Proposal Writing Tutorial |
+| 5:15 | | Adjourn for the day |
+|---|---|---|
 
 # Call For Participation (Closed)
 
