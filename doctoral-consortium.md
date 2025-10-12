@@ -10,9 +10,13 @@ Research in responsible computing and AI can involve interdisciplinary, multidis
 
 The Doctoral Consortium will take place on October 27th, 2025. Doctoral students in areas related to responsible computing, responsible AI, human-AI interaction, and policy who are admitted to the Doctoral Consortium will received 1:1 and small-group mentorship from established responsible computing and AI faculty, opportunities for networking and establishing themselves as future voices in the area. We also plan career skill development sessions, such as proposal writing. Consortium participants will also be expected to present at a poster session on October 28th during the main Summit event, and to participate in interactive visioning sessions during the main Summit event.
 
+The Doctoral Consortium will take place in the TSRB Building, 85 Fifth Street NW, Atlanta. You will find the entrance in the courtyard past the Moes and Subway restaurants.
+
+<img src="/assets/tsrb-entrance.jpg" width="400">
+
 ## Monday, October 27th 2025
  
-The Doctoral Consortium will take place in the TSRB Building, 85 Fifth Street NW, Atlanta.
+The consortium will take place in the TSRB building, on the 2nd floor.
 
 | Time | Location | Activity |
 |---|---|---|
