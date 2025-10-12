@@ -33,6 +33,45 @@ The consortium will take place in the TSRB building, on the 2nd floor.
 | 5:15 | | Adjourn for the day |
 |---|---|---|
 
+# Meet the 2025 Doctoral Consortium Cohort
+
+* Sina Rismanchian (University of California, Irvine) 
+  * His focus is on researching how to gain the benefits of computer science and data science to excel K-12 education and to explore educational theories using quantitative methods.
+* [Ali Shirali](https://sites.google.com/berkeley.edu/ali/home) (University of California, Berkeley)
+  * "My research broadly explores how modern AI should be designed, deployed, and evaluated when embedded in human and societal contexts."
+* [Anna Kawakami](https://annakawakami.com/) (Carnegie Mellon University)
+  * "My goal is to normalize workplace AI deployments that enhance worker expertise, capabilities, and wellbeing as a first-order objective."
+* [Jordan Taylor](https://jtaylor.gay/) (Carnegie Mellon University)
+  * "My research focuses on how queer communities negotiate the values embedded within sociotechnical systems, such such as online communities and generative AI models."
+* [Taneea Agarwal](https://tansa05.github.io/website/) (University of Toronto)
+  * "My research envisions a human-centered approach to climate data, risk and modeling that expands contemporary climate technologies to be more place-based and environmentally just."
+* [Saloni Dash](https://salonidash.com/) (University of Washington)
+  * "My research interests primarily lie in understanding how AI can influence cognitive mechanisms underpinning (mis)information processing & sensemaking."
+* [Eve Fleisig](https://www.efleisig.com/) (University of California, Berkeley)
+  * "My research lies at the intersection of natural language processing (NLP) and AI ethics: how can we create NLP systems that we trust to work for all users, without perpetuating societal harms?"
+* [Jocelyn Shen](https://jocelynshen.com/) (MIT Media Lab)
+  * "My research advances human-centered AI to foster empathic interaction and social connection, while safeguarding against socio-emotional harms of emerging technologies."
+* [Charlotte Li](https://shallotly.github.io/) (Northwestern University)
+  * "With my research, I aim to improve how people derive insights from complex, raw data and to make mass communication of information more accessible and equitable."
+* [Shi Ding](https://sites.google.com/view/shi-dings-portfolio/home?authuser=4) (Georgia Tech)
+  * "My work spans intelligent tutoring systems, responsible AI, AI in education and AI literacy."
+* [Kartik Sharma](https://ksartik.github.io/) (Georgia Tech)
+  * "Through my research, my goal is to study and build machine learning (🤖) models, which are robust to perturbations (🦺) and can be easily controlled (🎛️) by the users, specifically, in relational (eg., graph), ordered (eg., language, decision process), and dynamic (eg., dynamic graph, multi-agent) environments."
+* [Yasmine Belghith](https://yasmine1506.github.io/yasmine.github.io/) (Georgia Tech)
+  * "My research investigates how people learn and interact with technologies to inform the design of interactive learning interventions and environments."
+* Lingqing Wang (Georgia Tech)
+  * His work in part focuses on how everyday users perceive and interact with explainable AI (XAI), emphasizing adoption barriers and design preferences.
+* [Xingyu Li](https://nikoxing.github.io/) (Georgia Tech)
+  * She explores how Emotion AI can be applied to enhance interpersonal relationships.
+* [Charles Nimo](https://charlesnimo.me/) (Georgia Tech)
+  * Currently, his research focuses on understanding and improving the cultural awareness and adaptability of large language models.
+* [Aman Khullar](https://amankhullar.github.io/) (Georgia Tech)
+  * "My research focuses on the social impact of AI, particularly how care work and workers could be supported through LLM-based systems."
+* Amal Alabdulkarim (Georgia Tech)
+  * Works on algorithms and representations for reasoning about how future expectations and past events play into an agent's decision-making to generate actionable explanations.
+* Kayla Evans (Georgia Tech)
+  * Working on how power dynamics impact online communication (and vice versa) in the workplace.  
+
 # Call For Participation (Closed)
 
 Doctoral students in responsible computing, responsible AI, human-centered AI, human-AI interaction, policy, and related areas are encouraged to apply using the <a href="https://forms.office.com/r/fKhU6QFkR2">Application Form</a>. Your advisor will be need to submit a 1-page reference letter to <a href="mailto:riedl@gatech.edu">Mark Riedl</a> and <a href="mailto:kartikgo@gatech.edu">Kartik Goyal</a>.
