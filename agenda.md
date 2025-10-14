@@ -87,19 +87,22 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 |---|---|
 
 **Posters**
-- Alice Oh, KAIST, "Multiple languages and cultures: from challenges to solutions for LLMs"
-- Upol Ehsan, Northeastern University, "The Algorithmic Imprint"
-- Yijin Ni, Xiaoming Huo, Georgia Tech, "An Analytical Framework to Precisely Characterize the Accuracy-Fairness Trade-off in Fair Representation Learning"
-- Angel Hwang, University of Southern California, "Advancing Human Subjects Research to Advance Human-Centered AI: Repurposing Behavioral Experimentation as Driver of Responsible AI Design"
-- Sanaz Ahmadzadeh Siyahrood and Michael Hoffmann, Georgia Tech, "User-Engaged Responsible AI Design: A Method"
-- Sina Rismanchian, Peter Liu, and Shayan Doroudi, University of California, Irvine, "The Role of Intellectual Virtues in the Age of Generative AI" 
-- Juba Ziana, Georgia Tech, "How do Humans Respond to High-Stake AI-Driven Decision-Making? On Fairness and Societal Impact"
-- DeBrae Kennedy-Mayo and Jake Gord, Georgia Tech, "Beyond Democracy?: AI and the Rule of Law, Separation of Powers, and Individual Rights"
-- Steven Luo and Camille Crittenden, University of California, Berkeley, "Inclusive, Interdisciplinary, and Scalable Models for Building University-Centered Responsible AI Communities"
-- Samir Passi and Shipi Dhanorkar, Microsoft, "The Human Oversight of Agentic Systems Is Currently Near Impossible, but It Does Not Have to Stay That Way"
-- Desiree B. Junfijiah, Independent Researcher, "AI Catastrophic Risk and the Politics of Disposability: What We Owe Beyond the Margins"
-- Neil Gaikwad, University of North Carolina, "Public Interest AI: The Democracy-Performance Paradox" 
-- Zeyu Yan, University of Maryland, "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques"
+
+|---|
+| Alice Oh, KAIST, "Multiple languages and cultures: from challenges to solutions for LLMs"<br>
+Upol Ehsan, Northeastern University, "The Algorithmic Imprint"<br>
+Yijin Ni, Xiaoming Huo, Georgia Tech, "An Analytical Framework to Precisely Characterize the Accuracy-Fairness Trade-off in Fair Representation Learning"<br>
+Angel Hwang, University of Southern California, "Advancing Human Subjects Research to Advance Human-Centered AI: Repurposing Behavioral Experimentation as Driver of Responsible AI Design"<br>
+Sanaz Ahmadzadeh Siyahrood and Michael Hoffmann, Georgia Tech, "User-Engaged Responsible AI Design: A Method"<br>
+Sina Rismanchian, Peter Liu, and Shayan Doroudi, University of California, Irvine, "The Role of Intellectual Virtues in the Age of Generative AI"<br>
+Juba Ziana, Georgia Tech, "How do Humans Respond to High-Stake AI-Driven Decision-Making? On Fairness and Societal Impact"<br>
+DeBrae Kennedy-Mayo and Jake Gord, Georgia Tech, "Beyond Democracy?: AI and the Rule of Law, Separation of Powers, and Individual Rights"<br>
+Steven Luo and Camille Crittenden, University of California, Berkeley, "Inclusive, Interdisciplinary, and Scalable Models for Building University-Centered Responsible AI Communities"<br>
+Samir Passi and Shipi Dhanorkar, Microsoft, "The Human Oversight of Agentic Systems Is Currently Near Impossible, but It Does Not Have to Stay That Way"<br>
+Desiree B. Junfijiah, Independent Researcher, "AI Catastrophic Risk and the Politics of Disposability: What We Owe Beyond the Margins"<br>
+Neil Gaikwad, University of North Carolina, "Public Interest AI: The Democracy-Performance Paradox" <br>
+Zeyu Yan, University of Maryland, "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques" |
+|---|
 
 <h2>Wednesday October 29, 2025</h2>
 
