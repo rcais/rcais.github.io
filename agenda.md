@@ -106,7 +106,7 @@ We encourage (and will facilitate) participants to form birds-of-a-feather worki
 
 Each speaker session will feature 2-3 10-minute talks designed to raise questions and provoke discussion. After the talks, the speakers will form a panel, led by the session chair during which time audience questions will also be fielded.
 
-# <div id="posters">Poster Presentations</div>
+<h1 id="posters">Poster Presentations</h1>
 
 The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 
