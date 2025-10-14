@@ -86,7 +86,29 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 5:40 | Adjourn for the day. Dinner on own |
 |---|---|
 
-**Posters**
+<h2>Wednesday October 29, 2025</h2>
+
+| Time | Activity |
+|---|---|
+| 9:00 - 9:15 | Welcome |
+| 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, MIT, "Building Safe, Interpretable, and Aligned Agents for Open-World Environments" |
+| 10:15 - 10:30 | Break |
+| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin and Allen Hyde, Georgia Tech, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<!--Pedro Reynolds-Cuellar, MIT, Ttile TBD--> |
+| 11:30 - 12:00 | Concluding remarks |
+| 12:00 | Officially adjourn |
+|---|---|
+
+We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.  
+
+<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 3pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. We hope you will join us for that.
+
+# Speaker Session Format
+
+Each speaker session will feature 2-3 10-minute talks designed to raise questions and provoke discussion. After the talks, the speakers will form a panel, led by the session chair during which time audience questions will also be fielded.
+
+# Poster Presentations
+
+The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 
 | Authors | Title |
 |---|---|
@@ -104,20 +126,3 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | Neil Gaikwad (University of North Carolina) | "Public Interest AI: The Democracy-Performance Paradox" |
 | Zeyu Yan (University of Maryland) | "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques" |
 |---|---|
-
-<h2>Wednesday October 29, 2025</h2>
-
-| Time | Activity |
-|---|---|
-| 9:00 - 9:15 | Welcome |
-| 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, MIT, "Building Safe, Interpretable, and Aligned Agents for Open-World Environments" |
-| 10:15 - 10:30 | Break |
-| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin and Allen Hyde, Georgia Tech, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<!--Pedro Reynolds-Cuellar, MIT, Ttile TBD--> |
-| 11:30 - 12:00 | Concluding remarks |
-| 12:00 | Officially adjourn |
-|---|---|
-
-We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.  
-
-<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 3pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. We hope you will join us for that.
-
