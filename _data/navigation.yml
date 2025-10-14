@@ -1,6 +1,4 @@
 main:
-  - title: "Call"
-    url: cfp/
   - title: "Agenda"
     url: agenda/
   - title: "Registration"
@@ -11,3 +9,5 @@ main:
     url: doctoral-consortium/ 
   - title: "Organization"
     url: organization/
+  - title: "Call"
+    url: cfp/
