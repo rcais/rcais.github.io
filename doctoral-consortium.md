@@ -70,7 +70,17 @@ The consortium will take place in the TSRB building, on the 2nd floor.
 * Amal Alabdulkarim (Georgia Tech)
   * Works on algorithms and representations for reasoning about how future expectations and past events play into an agent's decision-making to generate actionable explanations.
 * Kayla Evans (Georgia Tech)
-  * Working on how power dynamics impact online communication (and vice versa) in the workplace.  
+  * Working on how power dynamics impact online communication (and vice versa) in the workplace. 
+
+***
+
+# Meet the Mentors
+
+* [Jessica Roberts](https://jessicaannroberts.com/), Georgia Tech
+* [Munmun De Choudhury](http://www.munmund.net/), Georgia Tech
+* [Rosa Arriaga](https://sites.google.com/view/riarriaga/home), Georgia Tech
+* [Mark Riedl](https://eilab.gatech.edu/mark-riedl.html), Georgia Tech
+* [Anna Huang](https://czhuang.github.io/), MIT 
 
 # Call For Participation (Closed)
 
