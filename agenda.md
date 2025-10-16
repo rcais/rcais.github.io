@@ -76,11 +76,11 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:30 | Keynote Presentation: Dr. Rumman Chowdhury |
 | 10:30 - 10:45 | Break |
-| 10:45 - 11:45 | **Session 1: Education in the Era of AI**<br>Ashok Goel, Georgia Tech, "AI for Lifetime Learning"<br>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"<br>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education" |
+| 10:45 - 11:45 | **Session 1: Education in the Era of AI**<br>Ashok Goel, Georgia Tech, "AI for Lifetime Learning"<br>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"<br>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education"<br>Session chair: Chris MacLellan |
 | 11:45 - 1:30 | Catered lunch and interactive activity |
-| 1:30 - 2:30 | **Session 2: Creativity and Computation**<br>Brian Magerko, Georgia Tech, "Curating an Ethical Co-creative AI tool for Modern Improvisational Movement"<br>Irfan Essa, Google and Georgia Tech, "Making movies in the era of generative AI"<br>Anna Huang, MIT, "In Search of Human-AI Resonance" |
+| 1:30 - 2:30 | **Session 2: Creativity and Computation**<br>Brian Magerko, Georgia Tech, "Curating an Ethical Co-creative AI tool for Modern Improvisational Movement"<br>Irfan Essa, Google and Georgia Tech, "Making movies in the era of generative AI"<br>Anna Huang, MIT, "In Search of Human-AI Resonance" <br>Session chair: Mark Riedl |
 | 2:30 - 3:30 | Poster session and refreshments ([List of posters](#posters)) |
-| 3:30 - 4:30 | **Session 3: Health**<br>Jennifer Kim, Georgia Tech, "Toward Responsible LLM-Powered Interventions for Health and Wellbeing"<br>Firaz Peer, University of Kentucky, "Using AI for Recovery from Substance and Behavioral Addictions"<br>Naveena Karusala, Georgia Tech, "Building Capacity for Worker-led AI Governance in Healthcare Settings" |
+| 3:30 - 4:30 | **Session 3: Health**<br>Jennifer Kim, Georgia Tech, "Toward Responsible LLM-Powered Interventions for Health and Wellbeing"<br>Firaz Peer, University of Kentucky, "Using AI for Recovery from Substance and Behavioral Addictions"<br>Naveena Karusala, Georgia Tech, "Building Capacity for Worker-led AI Governance in Healthcare Settings"<br>Session chair: Andrea Parker |
 | 4:30 - 4:40 | Break |
 | 4:40 - 5:40 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, "Taking Democracy Seriously: Potentials and Limitations of Participation and AI"<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse" |
 | 5:40 | Adjourn for the day. Dinner on own |
@@ -91,9 +91,9 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | Time | Activity |
 |---|---|
 | 9:00 - 9:15 | Welcome |
-| 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, MIT, "Building Safe, Interpretable, and Aligned Agents for Open-World Environments" |
+| 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, MIT, "Building Safe, Interpretable, and Aligned Agents for Open-World Environments"<br>Session Chair: Chinmay Kulkarni |
 | 10:15 - 10:30 | Break |
-| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin and Allen Hyde, Georgia Tech, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<!--Pedro Reynolds-Cuellar, MIT, Ttile TBD--> |
+| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin and Allen Hyde, Georgia Tech, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Session chair: Josiah Hester |
 | 11:30 - 12:00 | Concluding remarks |
 | 12:00 | Officially adjourn |
 |---|---|
