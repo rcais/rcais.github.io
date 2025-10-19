@@ -125,4 +125,6 @@ The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 | Desiree B. Junfijiah | "AI Catastrophic Risk and the Politics of Disposability: What We Owe Beyond the Margins" |
 | Neil Gaikwad (University of North Carolina) | "Public Interest AI: The Democracy-Performance Paradox" |
 | Zeyu Yan (University of Maryland) | "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques" |
+| Charlotte Li (Northwestern) | "Towards Ecologically Valid LLM Benchmarks: Understanding and Designing Domain-Centered Evaluations for Journalism Practitioners" |
+| Yasmine Belghith (Georgia Tech) | "Productive Failure-based AI Literacy Escape Room (ProFAILER): Exploring productive failure and gamification to foster AI literacy" |
 |---|---|
