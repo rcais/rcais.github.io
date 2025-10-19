@@ -127,4 +127,6 @@ The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 | Zeyu Yan (University of Maryland) | "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques" |
 | Charlotte Li (Northwestern) | "Towards Ecologically Valid LLM Benchmarks: Understanding and Designing Domain-Centered Evaluations for Journalism Practitioners" |
 | Yasmine Belghith (Georgia Tech) | "Productive Failure-based AI Literacy Escape Room (ProFAILER): Exploring productive failure and gamification to foster AI literacy" |
+| Aman Khullar (Georgia Tech) | "Social Evaluations of Generative AI: Towards a Participatory Impact Evaluation Framework for GenAI-Based Systems" |
+| Anna Kawakami (CMU) | "AI Failure Loops in the Devalued Workplace: The Confluence of Overconfidence in AI & Underconfidence in Worker Expertise" |
 |---|---|
