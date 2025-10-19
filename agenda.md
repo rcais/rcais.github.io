@@ -125,8 +125,18 @@ The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 | Desiree B. Junfijiah | "AI Catastrophic Risk and the Politics of Disposability: What We Owe Beyond the Margins" |
 | Neil Gaikwad (University of North Carolina) | "Public Interest AI: The Democracy-Performance Paradox" |
 | Zeyu Yan (University of Maryland) | "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques" |
+| Anna Kawakami and Jordan Taylor (CMU) | "AI Failure Loops in the Devalued Workplace: The Confluence of Overconfidence in AI & Underconfidence in Worker Expertise" |
+|---|---|
+
+| Doctoral Consortium Posters | Title |
+|---|---|
 | Charlotte Li (Northwestern) | "Towards Ecologically Valid LLM Benchmarks: Understanding and Designing Domain-Centered Evaluations for Journalism Practitioners" |
 | Yasmine Belghith (Georgia Tech) | "Productive Failure-based AI Literacy Escape Room (ProFAILER): Exploring productive failure and gamification to foster AI literacy" |
 | Aman Khullar (Georgia Tech) | "Social Evaluations of Generative AI: Towards a Participatory Impact Evaluation Framework for GenAI-Based Systems" |
-| Anna Kawakami (CMU) | "AI Failure Loops in the Devalued Workplace: The Confluence of Overconfidence in AI & Underconfidence in Worker Expertise" |
+| Anna Kawakami (CMU) | "Designing Positive AI Futures for Socially Complex Work With and For Workers" |
+| Amal Alabdulkarim (Georgia Tech) |  "Temporality in Sequential Explainable AI" | 
+| Ali Shirali (UC Berkeley) | "Towards A Bottom-Up Approach to Responsible AI" |
+| Kartik Sharma (Georgia Tech) | "Intention in tension: Towards robust and controllable machine learning" |
+| Shi Ding (Georgia Tech) | "Rethinking AI Benchmark Evaluation with the TEACH-AI Framework" |
+| Jocelyn Shen (MIT) | "Human AI Interaction for Empathic Communication and Relational Integrity" |
 |---|---|
