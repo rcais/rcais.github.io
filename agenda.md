@@ -139,4 +139,6 @@ The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 | Kartik Sharma (Georgia Tech) | "Intention in tension: Towards robust and controllable machine learning" |
 | Shi Ding (Georgia Tech) | "Rethinking AI Benchmark Evaluation with the TEACH-AI Framework" |
 | Jocelyn Shen (MIT) | "Human AI Interaction for Empathic Communication and Relational Integrity" |
+| Charles Nimo (Georgia Tech) | "Africa Health Check: Probing Cultural Bias in Medical LLMs" |
+| Jordan Taylor (CMU) | "Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity" |
 |---|---|
