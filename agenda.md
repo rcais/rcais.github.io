@@ -142,4 +142,5 @@ The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 | Charles Nimo (Georgia Tech) | "Africa Health Check: Probing Cultural Bias in Medical LLMs" |
 | Jordan Taylor (CMU) | "Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity" |
 | Kayla Evans (Georgia Tech) |  "Active and Passive Decisions: How ethical choices are made (and missed) in NLP research settings" |
+| Xingyu Li (Georgia Tech) | "Embodied, Informal Auditing as a Human-Centered Approach to Civic Engagement with Responsible Emotion AI" |
 |---|---|
