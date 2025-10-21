@@ -61,8 +61,8 @@ The consortium will take place in the TSRB building, on the 2nd floor.
   * "My research investigates how people learn and interact with technologies to inform the design of interactive learning interventions and environments."
 * Lingqing Wang (Georgia Tech)
   * His work in part focuses on how everyday users perceive and interact with explainable AI (XAI), emphasizing adoption barriers and design preferences.
-* [Xingyu Li](https://nikoxing.github.io/) (Georgia Tech)
-  * She explores how Emotion AI can be applied to enhance interpersonal relationships.
+* [Xingyu Li](https://sites.gatech.edu/futurefeelings/2024/02/11/xingyu-li/) (Georgia Tech)
+  * She explores how Emotion AI can be applied to enhance interpersonal relationships. Her approach is multifaceted, delving into discussions spanning computer science, the arts, design, and mechanical engineering from their inception.
 * [Charles Nimo](https://charlesnimo.me/) (Georgia Tech)
   * Currently, his research focuses on understanding and improving the cultural awareness and adaptability of large language models.
 * [Aman Khullar](https://amankhullar.github.io/) (Georgia Tech)
