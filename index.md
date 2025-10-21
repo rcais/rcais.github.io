@@ -96,6 +96,10 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
     <td><img src="assets/microsoft.jpg" width="200"></td>
     <td><a href="https://www.microsoft.ai/">Microsoft AI</a></td>
   </tr>
+  <tr>
+    <td><img src="assets/gt-evpr.png" width="200"></td>
+    <td><a href="https://research.gatech.edu/">Georgia Tech Executive Vice President for Research</a></td>
+  </tr>
 </table>
 
 <h1>Previous Summits</h1>
