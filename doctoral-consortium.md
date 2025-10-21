@@ -76,11 +76,14 @@ The consortium will take place in the TSRB building, on the 2nd floor.
 
 # Meet the Mentors
 
-* [Jessica Roberts](https://jessicaannroberts.com/), Georgia Tech
 * [Munmun De Choudhury](http://www.munmund.net/), Georgia Tech
 * [Rosa Arriaga](https://sites.google.com/view/riarriaga/home), Georgia Tech
 * [Mark Riedl](https://eilab.gatech.edu/mark-riedl.html), Georgia Tech
 * [Anna Huang](https://czhuang.github.io/), MIT 
+* [Dylan Hadfield-Menell](https://people.csail.mit.edu/dhm/), MIT
+* [Chris MacLellan](https://chrismaclellan.com/), Georgia Tech
+* [Ding Wang](https://www.linkedin.com/in/drdingwang/), Google
+* [Josiah Hester](https://josiahhester.com/), Georgia Tech
 
 # Call For Participation (Closed)
 
