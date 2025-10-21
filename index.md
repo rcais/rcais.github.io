@@ -94,7 +94,7 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
 <table width="100%">
   <tr>
     <td><img src="assets/microsoft.jpg" width="200"></td>
-    <td><a href="https://www.microsoft.com/">Microsoft</a></td>
+    <td><a href="https://www.microsoft.ai/">Microsoft AI</a></td>
   </tr>
 </table>
 
