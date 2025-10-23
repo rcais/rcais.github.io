@@ -76,7 +76,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:30 | Keynote Presentation: Dr. Rumman Chowdhury |
 | 10:30 - 10:45 | Break |
-| 10:45 - 11:45 | **Session 1: Education in the Era of AI**<br>Ashok Goel, Georgia Tech, "AI for Lifetime Learning"<br>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"<br>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education"<br>Session chair: Judity Uchidiuno |
+| 10:45 - 11:45 | **Session 1: Education in the Era of AI**<br>Ashok Goel, Georgia Tech, "AI for Lifetime Learning"<br>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"<br>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education"<br>Session chair: Judith Uchidiuno |
 | 11:45 - 1:30 | Catered lunch and interactive activity |
 | 1:30 - 2:30 | **Session 2: Creativity and Computation**<br>Brian Magerko, Georgia Tech, "Curating an Ethical Co-creative AI tool for Modern Improvisational Movement"<br>Irfan Essa, Google and Georgia Tech, "Making movies in the era of generative AI"<br>Anna Huang, MIT, "In Search of Human-AI Resonance" <br>Session chair: Mark Riedl |
 | 2:30 - 3:30 | Poster session and refreshments ([List of posters](#posters)) |
