@@ -93,7 +93,8 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, MIT, "Building Safe, Interpretable, and Aligned Agents for Open-World Environments"<br>Session Chair: Chinmay Kulkarni |
 | 10:15 - 10:30 | Break |
-| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin, "Towards Data Center as Public Goods"<br>Session chair: Josiah Hester |
+| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin, Georgia Tech, "Towards Data Center as Public Goods"<br>Zeyu Yan, University of Maryland,
+"Electronics that Evolve: Local Re-manufacturing of PCB Assembly"<br>Session chair: Josiah Hester |
 | 11:30 - 12:00 | Concluding remarks |
 | 12:00 | Officially adjourn |
 |---|---|
@@ -144,4 +145,6 @@ The Poster Session is Tuesday October 18th at 2:30-3:30pm.
 | Kayla Evans (Georgia Tech) |  "Active and Passive Decisions: How ethical choices are made (and missed) in NLP research settings" |
 | Xingyu Li (Georgia Tech) | "Embodied, Informal Auditing as a Human-Centered Approach to Civic Engagement with Responsible Emotion AI" |
 | Tannea Agrawal (Toronto) | "An Analytical Framework for Designing Usable, Place-based, and Equitable Climate Informatics" |
+| Saloni Dash (University of Washington) | "Persona-Assigned Large Language Models Exhibit Human-Like Motivated Reasoning" |
+| Eve Fleisig (UC Berkeley) | "Building Language Models that Serve Diverse User Distributions" |
 |---|---|
