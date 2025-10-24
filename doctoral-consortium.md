@@ -43,7 +43,7 @@ The consortium will take place in the TSRB building, on the 2nd floor.
   * "My goal is to normalize workplace AI deployments that enhance worker expertise, capabilities, and wellbeing as a first-order objective."
 * [Jordan Taylor](https://jtaylor.gay/) (Carnegie Mellon University)
   * "My research focuses on how queer communities negotiate the values embedded within sociotechnical systems, such such as online communities and generative AI models."
-* [Taneea Agarwal](https://tansa05.github.io/website/) (University of Toronto)
+* [Taneea S Agrawaal](https://tansa05.github.io/website/) (University of Toronto)
   * "My research envisions a human-centered approach to climate data, risk and modeling that expands contemporary climate technologies to be more place-based and environmentally just."
 * [Saloni Dash](https://salonidash.com/) (University of Washington)
   * "My research interests primarily lie in understanding how AI can influence cognitive mechanisms underpinning (mis)information processing & sensemaking."
