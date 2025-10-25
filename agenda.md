@@ -93,8 +93,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 9:00 - 9:15 | Welcome |
 | 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, MIT, "Building Safe, Interpretable, and Aligned Agents for Open-World Environments"<br>Session Chair: Chinmay Kulkarni |
 | 10:15 - 10:30 | Break |
-| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin, Georgia Tech, "Towards Data Center as Public Goods"<br>Zeyu Yan, University of Maryland,
-"Electronics that Evolve: Local Re-manufacturing of PCB Assembly"<br>Session chair: Josiah Hester |
+| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin, Georgia Tech, "Towards Data Center as Public Goods"<br>Zeyu Yan, University of Maryland, "Electronics that Evolve: Local Re-manufacturing of PCB Assembly"<br>Session chair: Josiah Hester |
 | 11:30 - 12:00 | Concluding remarks |
 | 12:00 | Officially adjourn |
 |---|---|
