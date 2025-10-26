@@ -82,7 +82,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 2:30 - 3:30 | Poster session and refreshments ([List of posters](#posters)) |
 | 3:30 - 4:30 | **Session 3: Health**<br>Jennifer Kim, Georgia Tech, "Toward Responsible LLM-Powered Interventions for Health and Wellbeing"<br>Firaz Peer, University of Kentucky, "Using AI for Recovery from Substance and Behavioral Addictions"<br>Naveena Karusala, Georgia Tech, "Building Capacity for Worker-led AI Governance in Healthcare Settings"<br>Session chair: Neha Kumar |
 | 4:30 - 4:40 | Break |
-| 4:40 - 5:40 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, "Taking Democracy Seriously: Potentials and Limitations of Participation and AI"<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse" |
+| 4:40 - 5:40 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, "Taking Democracy Seriously: Potentials and Limitations of Participation and AI"<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse"<br>Session Chair: Richmond Wong |
 | 5:40 | Adjourn for the day. Dinner on own |
 |---|---|
 
