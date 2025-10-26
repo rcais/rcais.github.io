@@ -74,7 +74,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | Time | Activity |
 |---|---|
 | 9:00 - 9:15 | Welcome |
-| 9:15 - 10:30 | Keynote Presentation: Dr. Rumman Chowdhury |
+| 9:15 - 10:30 | Keynote Presentation: Dr. Rumman Chowdhury, "Enabling human agency in Generative AI"<br>Recent applications and approaches to AI create greater human exclusion. While this is framed as an inevitability by tech companies, this doesn’t have to be the case. In this keynote, Dr. Chowdhury will present a roadmap for a human centric and human enabling future, drawing from her work pioneering inclusive practices of human centric test and evaluation.  |
 | 10:30 - 10:45 | Break |
 | 10:45 - 11:45 | **Session 1: Education in the Era of AI**<br>Ashok Goel, Georgia Tech, "AI for Lifetime Learning"<br>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"<br>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education"<br>Session chair: Judith Uchidiuno |
 | 11:45 - 1:30 | Catered lunch and interactive activity |
@@ -100,7 +100,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 
 We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.  
 
-<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 3pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. We hope you will join us for that.
+<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 4pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event on Emory Campus. We hope you will join us for that. See the <a href="https://www.aiai.network/">AIAI website</a> for details.
 
 # Speaker Session Format
 
