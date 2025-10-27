@@ -34,9 +34,10 @@ Please use the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.js
 
 <b><a href="https://www.rummanchowdhury.com/">Rumman Chowdhury, Ph.D.</a></b>
 
-Title: TBA
+Title: Enabling human agency in Generative AI
 
-<img src="/assets/rumman_chowdhury_headshot.jpg" align="left" width="300" />
+<img src="/assets/rumman_chowdhury_headshot.jpg" align="left" width="300" />Recent applications and approaches to AI create greater human exclusion. While this is framed as an inevitability by tech companies, this doesn’t have to be the case. In this keynote, Dr. Chowdhury will present a roadmap for a human centric and human enabling future, drawing from her work pioneering inclusive practices of human centric test and evaluation.
+
 Dr. Rumman Chowdhury is a data scientist and social scientist. She is the Co-founder of the tech nonprofit Humane Intelligence, which builds a community of practice around evaluations of AI models. She was appointed by the Biden Administration as the first United States Science Envoy for Artificial Intelligence. Dr. Chowdhury is also Responsible AI Fellow at Harvard University’s Berkman Klein Center for Internet and Society. Previously, Dr. Chowdhury was the Director of the ML Ethics, Transparency, and Accountability (META) team at Twitter, as well as the Global Lead for Responsible AI at Accenture Applied Intelligence. She was named one of Time's 100 most Influential People in AI, BBC’s 100 Women, Worthy Magazine's Top 100, recognized as one of the Bay Area’s top 40 under 40 and named by Forbes as one of Five Who are Shaping AI. Chowdhury holds two undergraduate degrees from MIT, a master's degree in Quantitative Methods of the Social Sciences from Columbia University, and a doctorate in political science from the University of California, San Diego.
 
 <h1>Doctoral Consortium</h1>
