@@ -1,34 +1,19 @@
 members:
-  - name: Mark Riedl
-    website: https://eilab.gatech.edu/mark-riedl.html
-    title: Professor
-    affiliation: School of Interactive Computing, Georgia Tech
-    image: https://eilab.gatech.edu/assets/images/mark-potato.jpg
-  - name: Andrea Parker
-    website: https://faculty.cc.gatech.edu/~andrea/
-    title: Associate Professor
-    affiliation: School of Interactive Computing, Georgia Tech
-    image: https://faculty.cc.gatech.edu/~andrea/images/Parker_Andrea_006.jpg
   - name: Josiah Hester
     website: https://josiahhester.com/cv/
     title: Associate Professor
-    affiliation: School of Interactive Computing, Georgia Tech
+    affiliation: Schools of Interactive Computing and Computer Science, Brook Byers Institute of Sustainable Systems, Georgia Tech
     image: https://josiahhester.com/img/headshot4-short.jpg
+  - name: Chris MacLellan
+    website: https://chrismaclellan.com/
+    title: Associate Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: "https://chrismaclellan.com/personal/profile_pic.jpeg"
   - name: Shaowen Bardzell
     website: https://shaowenbardzell.com/
     title: Professor and Chair
     affiliation: School of Interactive Computing, Georgia Tech
     image: https://shaowenbardzell.com/wp-content/uploads/2013/07/bardzell-shaowen.jpeg
-  - name: Kartik Goyal
-    website: https://kartikgo.github.io/
-    title: Assistant Professor
-    affiliation: School of Interactive Computing, Georgia Tech
-    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-10/kartik_goyal.jpg"
-  - name: Chris MacLellan
-    website: https://chrismaclellan.com/
-    title: Assistant Professor
-    affiliation: School of Interactive Computing, Georgia Tech
-    image: "https://chrismaclellan.com/personal/profile_pic.jpeg"
 volunteers:
   - name: Amal Alabdulkarim
     title: PhD Student
@@ -43,6 +28,9 @@ volunteers:
     title: MS Student
     affiliation: Georgia Tech
 staff:
-  - name: Teresa Dodson
-    title: Assistant to the Chair
+  - name: Tressa Hoyer
+    title: BBISS Events Coordinator
+    affiliation: Georgia Tech
+  - name: Trisha Sisk
+    title: Director of Activities & Engagement, BBISS, RBI, and SEI
     affiliation: Georgia Tech
