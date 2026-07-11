@@ -36,7 +36,7 @@ To be considered for a speaking role, please submit a one-page extended abstract
 
 Selected contributions will be presented at the Summit, Monday December 7th in person and streamed to virtual participants. Abstracts are non-archival. 
 
-To submit an abstract, please visit the [submission management site](https://chairingtool.com/conferences/rcais2025/main-track?role=author). 
+**To submit an abstract, please visit the [submission management site](https://chairingtool.com/conferences/RCAS26/main-track?role=author).**
 
 **Due date:** September 30, 2026 <!--<font style="color: red;"><b>Updated</b></font>-->
 
