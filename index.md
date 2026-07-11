@@ -64,11 +64,15 @@ If you would like to receive updates about the current or future Summits, you ca
 
 The Summit graciously thanks its sponsors for proving support for the Doctoral Consortium.
 
-<h2>Primary Sponsor</h2>
+<h2>Primary Sponsors</h2>
 <table width="100%">
   <tr>
     <td><img src="assets/ic-logo.png" width="300"></td>
     <td><a href="https://ic.gatech.edu/">Georgia Tech School of Interactive Computing</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/bbiss.jpg" width="300"></td>
+    <td><a href="https://sustainablesystems.gatech.edu/">Brook Byers Institute for Sustainable Systems</a></td>
   </tr>
 </table>
 
@@ -78,10 +82,7 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
     <td><img src="assets/carc.png" width="300"></td>
     <td><a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a></td>
   </tr>
-    <tr>
-    <td><img src="assets/bbiss.jpg" width="300"></td>
-    <td><a href="https://sustainablesystems.gatech.edu/">Brook Byers Institute for Sustainable Systems</a></td>
-  </tr>
+
   <!--<tr>
     <td><img src="assets/ai-hub.png" width="200"></td>
     <td><a href="https://ai.gatech.edu/">The AI Hub at Georgia Tech</a></td>
