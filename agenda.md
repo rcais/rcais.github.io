@@ -61,15 +61,15 @@ function toggleBibtex(obj) {
 
 <h1>Agenda</h1>
 
-The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday October 27 to Wednesday October 29, 2025.
+The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday December 7 to Tuesday December 8, 2026.
 
 <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>
 
-<h2>Monday October 27, 2025</h2>
+<h2>Tuesday December 8, 2026</h2>
 
-Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Consortium</a>. The Doctoral Consortium is a closed-door event reserved for doctoral participants, mentors, and other invited guests. Doctoral consortium participants will present their work during the poster session on Tuesday.
+Tuesday December 8th is devoted to the <a href="/doctoral-consortium">Doctoral Consortium</a>. The Doctoral Consortium is a closed-door event reserved for doctoral participants, mentors, and other invited guests. Doctoral consortium participants will present their work during the poster session on Monday.
 
-<h2>Tuesday October 28, 2025</h2>
+<h2>Monday December 7, 2026</h2>
 
 | Time | Activity |
 |---|---|
@@ -86,7 +86,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 | 5:40 | Adjourn for the day. Dinner on own |
 |---|---|
 
-<h2>Wednesday October 29, 2025</h2>
+<h2>Monday December 7, 2026 (continued)</h2>
 
 | Time | Activity |
 |---|---|
@@ -100,7 +100,7 @@ Monday October 27th is devoted to the <a href="/doctoral-consortium">Doctoral Co
 
 We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.  
 
-<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 4pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event on Emory Campus. We hope you will join us for that. See the <a href="https://www.aiai.network/">AIAI website</a> for details.
+<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 4pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2026 Kickoff event on Emory Campus. We hope you will join us for that. See the <a href="https://www.aiai.network/">AIAI website</a> for details.
 
 # Speaker Session Format
 
@@ -108,7 +108,7 @@ Each speaker session will feature 2-3 10-minute talks designed to raise question
 
 <h1 id="posters">Poster Presentations</h1>
 
-The Poster Session is Tuesday October 18th at 2:30-3:30pm.
+The Poster Session is Monday December 7th at 2:30-3:30pm.
 
 | Authors | Title |
 |---|---|

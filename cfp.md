@@ -6,14 +6,19 @@ toc: true
 
 <h1>Call for Contributions:</h1>
 
-<font style="color: red;"><b>The Call for Contributions is now closed.</b> You may register using the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>.</font> 
+<!--<font style="color: red;"><b>The Call for Contributions is now closed.</b> You may register using the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>.</font> -->
 
 
-The IC Summit Series on [Responsible Computing, AI, and Society](https://rcais.github.io/) aims to explore the future of AI, ML, and computer vision for health, sustainability, education, and policy. The world is at an inflection point where artificial intelligence touches the lives of millions, if not billions, on a daily basis. We can no longer afford to ignore the moral and societal impacts of researching and developing computing and, especially, artificial intelligence technologies. Technology, policy, and the study of humans at the personal and societal levels can no longer remain siloed. What does it mean to develop a discipline around the responsible design, development, and deployment of computing and AI? What does it mean to design, develop, and deploy technologies responsibly? To whom are we responsible? The Summit aims to bring together luminary researchers in these areas and intersections to lay out the frontiers of these critical fields, and to plot out how they must evolve. 
+The Summit Series on [Responsible Computing, AI, and Society](https://rcais.github.io/) explores the future of AI, machine learning, computer vision, and computing more broadly across sustainability, health, education, policy, and society. The world is at an inflection point where artificial intelligence touches the lives of millions, if not billions, on a daily basis. At the same time, the rapid expansion of computing and AI is placing growing demands on energy, water, materials, infrastructure, communities, and the environment.
+We can no longer afford to ignore the moral, societal, and environmental impacts of researching and developing computing technologies, especially artificial intelligence. Technology, policy, sustainability, and the study of humans at personal and societal scales can no longer remain siloed. What does it mean to develop a discipline around the responsible and sustainable design, development, and deployment of computing and AI? How can computing contribute to a more equitable, resilient, and environmentally sustainable future? To whom—and to what—are we responsible?
 
-The 2025 Summit will be held on Tuesday October 28th and Wednesday October 29th in Atlanta, Georgia on the Georgia Tech campus. We seek contributors to the Summit who have unique perspectives on responsibility, as well as visions for the future of responsible, ethical, moral, and/or value-aligned computing and artificial intelligence. 
+The Summit aims to bring together leading researchers, practitioners, policymakers, and community partners working across these areas and intersections to define the frontiers of responsible and sustainable computing and to chart how these fields must evolve. <b>This year, we are especially focused on computing and AI intersections with all aspects of sustainability and resilience, responding to the current moment, and recognizing the significant environmental impact AI has had in the host location of Georgia.</b>
+
+The 2026 Summit will be held on Monday, December 7th in Atlanta, Georgia on the Georgia Tech campus. We seek contributors to the Summit who have unique perspectives on responsibility, as well as visions for the future of sustainable, responsible, ethical, moral, and/or value-aligned computing and artificial intelligence. 
 
 - What responsibilities do we as a community hold as researchers and developers of computing and intelligent technologies? 
+- How can AI and computing contribute to climate resilience, environmental protection, sustainable infrastructure, public health, education, food systems, and thriving communities?
+- How should we measure and reduce the energy, water, carbon, material, and land impacts of computing and AI across their full life cycles?
 - What are the research questions we must address, or will we need to address in the future, to achieve positive benefits for individuals and societies and mitigate intentional or unintentional harms? 
 - How should we think about responsibility, and to whom and when and why? 
 - How can we pluralistically align our technologies to value systems that differ across individuals and groups? 
@@ -25,17 +30,19 @@ The 2025 Summit will be held on Tuesday October 28th and Wednesday October 29th 
 
 Other related topics will be considered as well. We seek contributions from a diverse set of disciplines including but not limited to computing science, engineering, policy and governance, law, social sciences, psychology, communications, health, education, sustainability, natural language processing, computer vision, fairness, accountability, transparency, explainability, agents, human-computer interaction, human-centered computing, robotics, agents, the Humanities and the Arts, design, and science and technology studies.  
 
-To be considered for a speaking role, please submit a one-page extended abstract (approximately 750 words). We recommend the 2-column style of the [AAAI-2025 Author Kit](see https://aaai.org/authorkit25/) but do not require any particular formatting. 
+<h1>Submission:</h1>
 
-Selected contributions will be presented at the Summit, Tuesday October 28th or Wednesday October 29th in person and streamed to virtual participants. Abstracts are non-archival. 
+To be considered for a speaking role, please submit a one-page extended abstract (approximately 750 words). We recommend the 2-column style of the [AAAI-2026 Author Kit](see https://aaai.org/authorkit25/) but do not require any particular formatting. 
+
+Selected contributions will be presented at the Summit, Monday December 7th in person and streamed to virtual participants. Abstracts are non-archival. 
 
 To submit an abstract, please visit the [submission management site](https://chairingtool.com/conferences/rcais2025/main-track?role=author). 
 
-**Due date:** August 31, 2025 <font style="color: red;"><b>Updated</b></font>
+**Due date:** September 30, 2026 <!--<font style="color: red;"><b>Updated</b></font>-->
 
-**Notification:** September 15, 2025 <font style="color: red;"><b>Updated</b></font>
+**Notification:** October 22, 2026 <!--<font style="color: red;"><b>Updated</b></font> -->
 
-Tips for preparation: 
+<h1>Tips for preparation:</h1>
 
 - We seek big ideas and blue-sky visions for the future of AI with respect to responsible design, development, and deployment. The work should be grounded in the current state of the contributor’s field of expertise. 
 - Successful contributions will be those that look like they can have longevity; that people will return to the message in future years. 

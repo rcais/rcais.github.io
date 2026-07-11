@@ -6,4 +6,4 @@ toc: true
 
 <h1>Registration</h1>
 
-Registration is closed.
+Registration is not yet open.

@@ -18,7 +18,7 @@ author:
       url: "https://twitter.com/ICatGT"
 ---
 
-The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computing</a> is hosting the <strong>2025 Summit on Responsible Computing, AI, and Society</strong>, October 27-29, 2025.
+The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computing</a> is hosting the <strong>2026 Summit on Responsible Computing, AI, and Society</strong>, December 7-8, 2026.
 
 <h1>Overview</h1>
 
@@ -32,27 +32,28 @@ Please use the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.js
 
 <h1>Keynote Speaker</h1>
 
-<b><a href="https://www.rummanchowdhury.com/">Rumman Chowdhury, Ph.D.</a></b>
+<!--<b><a href="https://www.rummanchowdhury.com/">Rumman Chowdhury, Ph.D.</a></b>
 
 Title: Enabling human agency in Generative AI
 
 <img src="/assets/rumman_chowdhury_headshot.jpg" align="left" width="300" />Recent applications and approaches to AI create greater human exclusion. While this is framed as an inevitability by tech companies, this doesn’t have to be the case. In this keynote, Dr. Chowdhury will present a roadmap for a human centric and human enabling future, drawing from her work pioneering inclusive practices of human centric test and evaluation.
 
 Dr. Rumman Chowdhury is a data scientist and social scientist. She is the Co-founder of the tech nonprofit Humane Intelligence, which builds a community of practice around evaluations of AI models. She was appointed by the Biden Administration as the first United States Science Envoy for Artificial Intelligence. Dr. Chowdhury is also Responsible AI Fellow at Harvard University’s Berkman Klein Center for Internet and Society. Previously, Dr. Chowdhury was the Director of the ML Ethics, Transparency, and Accountability (META) team at Twitter, as well as the Global Lead for Responsible AI at Accenture Applied Intelligence. She was named one of Time's 100 most Influential People in AI, BBC’s 100 Women, Worthy Magazine's Top 100, recognized as one of the Bay Area’s top 40 under 40 and named by Forbes as one of Five Who are Shaping AI. Chowdhury holds two undergraduate degrees from MIT, a master's degree in Quantitative Methods of the Social Sciences from Columbia University, and a doctorate in political science from the University of California, San Diego.
+-->
 
 <h1>Doctoral Consortium</h1>
 
-The Summit will feature a Doctoral Consortium on October 27th, 2025, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. 
+The Summit will feature a Doctoral Consortium on December 8th, 2026, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. 
 
 Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for information about how to apply.
 
 <h1>Venue</h1>
 
-The Summit will take place at the Georgia Tech Academy of Medicine historical building in Midtown Atlanta, Georgia. It is very near to the School of Interactive Computing and the GT Machine Learning Center.
+The Summit will take place at the Georgia Tech Academy of Medicine historical building in Midtown Atlanta, Georgia. It is near to the School of Interactive Computing and the GT Machine Learning Center.
 
-<h1>Partner Event</h1>
+<!--<h1>Partner Event</h1>
 
-<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" /> On Wednesday October 29th at 3:00pm the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2025 Kickoff event. AIAI is an organization that aims to bring the city of Atlanta, with its historical place in the civil rights movement, to current conversations about the biases embedded in our AI systems. It is a humanities-forward organization that seeks an equitable, ethical, and justice-oriented approach to AI where humanistic ways of thinking come together with technical knowledge and community expertise.
+<img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" /> On Tuesday December 8th at 3:00pm the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2026 Kickoff event. AIAI is an organization that aims to bring the city of Atlanta, with its historical place in the civil rights movement, to current conversations about the biases embedded in our AI systems. It is a humanities-forward organization that seeks an equitable, ethical, and justice-oriented approach to AI where humanistic ways of thinking come together with technical knowledge and community expertise. -->
 
 <h1>Stay in Touch</h1>
 
@@ -77,7 +78,11 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
     <td><img src="assets/carc.png" width="300"></td>
     <td><a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a></td>
   </tr>
-  <tr>
+    <tr>
+    <td><img src="assets/bbiss.jpg" width="300"></td>
+    <td><a href="https://sustainablesystems.gatech.edu/">Brook Byers Institute for Sustainable Systems</a></td>
+  </tr>
+  <!--<tr>
     <td><img src="assets/ai-hub.png" width="200"></td>
     <td><a href="https://ai.gatech.edu/">The AI Hub at Georgia Tech</a></td>
   </tr>
@@ -88,24 +93,25 @@ The Summit graciously thanks its sponsors for proving support for the Doctoral C
   <tr>
     <td><img src="assets/google.png" width="200"></td>
     <td><a href="https://www.google.com/">Google</a></td>
-  </tr>
+  </tr>-->
 </table>
 
 <h2>Silver Sponsors</h2>
 <table width="100%">
-  <tr>
+  <!--<tr>
     <td><img src="assets/microsoft.jpg" width="200"></td>
     <td><a href="https://www.microsoft.ai/">Microsoft AI</a></td>
   </tr>
   <tr>
     <td><img src="assets/gt-evpr.png" width="200"></td>
     <td><a href="https://research.gatech.edu/">Georgia Tech Executive Vice President for Research</a></td>
-  </tr>
+  </tr>-->
 </table>
 
 <h1>Previous Summits</h1>
 
 <ul>
+  <li><a href="https://rcais.github.io/rcais2025.github.io/">2025 Summit on Responsible Computing, AI, and Society</a></li>
   <li><a href="https://rcais.github.io/rcais2024.github.io/">2024 Summit on Responsible Computing, AI, and Society</a></li>
 
 </ul>

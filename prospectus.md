@@ -11,9 +11,10 @@ The Summit on Responsible Computing, AI, and Society is deeply grateful to our s
 
 Sponsorship levels:
 
+- Platinum: Greater to or equal to $15,000
 - Gold: Greater to or equal to $10,000
 - Silver: From $5,000 to $10,000
 
-Silver sponsorship and above is recognized with: logos on website, print materials, and acknowledgement in the opening and closing sessions; ability to disseminate print materials to summit participants; and an offer for a few minutes of time to address participants. Gold sponsors may ask for consideration of additional forms of engagement, to be negotiated.  
+Silver sponsorship and above is recognized with: logos on website, print materials, and acknowledgement in the opening and closing sessions; ability to disseminate print materials to summit participants; and an offer for a few minutes of time to address participants. Gold sponsors may ask for consideration of additional forms of engagement, to be negotiated, which have included specific panels, and continued distribution of materials to attendees. Platinum sponsors may select topical areas and nominate keynote speakers, coordinate and be connected to doctoral consortium attendees, as well as take roles in advisory of the overal program.
 
 Please reach out to Mark Riedl (riedl@cc.gatech.edu) for consideration of other level options.
