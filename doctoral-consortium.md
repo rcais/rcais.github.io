@@ -58,7 +58,7 @@ The consortium will take place in the CODA building.
 
 # Call For Participation
 
-Doctoral students in responsible computing, responsible AI, human-centered AI, human-AI interaction, policy, and related areas are encouraged to apply using the <a href="https://forms.office.com/r/fKhU6QFkR2">Application Form</a>. Your advisor will be need to submit a 1-page reference letter to <a href="mailto:josiah@gatech.edu">Josiah Hester</a> and <a href="mailto:kartikgo@gatech.edu">Kartik Goyal</a>.
+Doctoral students in responsible computing, responsible AI, human-centered AI, human-AI interaction, policy, and related areas are encouraged to apply using the <a href="https://forms.cloud.microsoft/r/Qyxu5UvVhp">Application Form</a>. Your advisor will be need to submit a 1-page reference letter to <a href="mailto:josiah@gatech.edu">Josiah Hester</a> and <a href="mailto:kartikgo@gatech.edu">Kartik Goyal</a>.
 
 Applications before November 1, 2026 will receive full consideration.
 
