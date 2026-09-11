@@ -63,7 +63,7 @@ function toggleBibtex(obj) {
 
 The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday December 7 to Tuesday December 8, 2026.
 
-<a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>
+Registration is not yet open. Please check the <a href="/registration">Registration</a> page for updates.
 
 <h2>Tuesday December 8, 2026</h2>
 
@@ -71,6 +71,9 @@ Tuesday December 8th is devoted to the <a href="/doctoral-consortium">Doctoral C
 
 <h2>Monday December 7, 2026</h2>
 
+**Sessions and times: TBD**
+
+<!--
 | Time | Activity |
 |---|---|
 | 9:15 - 9:30 | Welcome |
@@ -85,9 +88,13 @@ Tuesday December 8th is devoted to the <a href="/doctoral-consortium">Doctoral C
 | 4:50 - 5:50 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, "Taking Democracy Seriously: Potentials and Limitations of Participation and AI"<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse"<br>Session Chair: Richmond Wong |
 | 5:40 | Adjourn for the day. Dinner on own |
 |---|---|
+-->
 
 <h2>Monday December 7, 2026 (continued)</h2>
 
+**Sessions and times: TBD**
+
+<!--
 | Time | Activity |
 |---|---|
 | 9:00 - 9:15 | Welcome |
@@ -97,6 +104,7 @@ Tuesday December 8th is devoted to the <a href="/doctoral-consortium">Doctoral C
 | 11:30 - 12:00 | Concluding remarks |
 | 12:00 | Officially adjourn |
 |---|---|
+-->
 
 We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.  
 

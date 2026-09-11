@@ -28,7 +28,7 @@ Please see the <a href="/cfp">Call for Contributions</a>
 
 <h1>Registration</h1>
 
-Please use the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">Registration Link</a>.
+Registration is not yet open. Please check the <a href="/registration">Registration</a> page for updates.
 
 <h1>Keynote Speaker</h1>
 
