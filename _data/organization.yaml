@@ -14,6 +14,11 @@ members:
     title: Professor and Chair
     affiliation: School of Interactive Computing, Georgia Tech
     image: https://shaowenbardzell.com/wp-content/uploads/2013/07/bardzell-shaowen.jpeg
+  - name: Jesse Thomason
+    title: Associate Professor
+    affiliation: Georgia Tech
+  - name: Cindy Lin
+    affiliation: Georgia Tech
 volunteers:
   - name: Amal Alabdulkarim
     title: PhD Student

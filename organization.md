@@ -8,8 +8,11 @@ toc: true
 
 {% for x in site.data.organization.members %}
   <p>
+    {% if x.image %}
     <img src="{{ x.image }}" width="100">
-    <a href="{{ x.website }}">{{ x.name }}</a>, {{ x.title }}, {{ x.affiliation }}
+    {% endif %}
+    {% if x.website %}<a href="{{ x.website }}">{{ x.name }}</a>{% else %}{{ x.name }}{% endif -%}
+    {% if x.title %}, {{ x.title }}{% endif %}, {{ x.affiliation }}
   </p>
 {% endfor %}
 
