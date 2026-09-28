@@ -18,7 +18,7 @@ author:
       url: "https://twitter.com/ICatGT"
 ---
 
-The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computing</a> is hosting the <strong>2026 Summit on Responsible Computing, AI, and Society</strong>, December 7-8, 2026.
+The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computing</a> is hosting the <strong>2026 Summit on Responsible Computing, AI, and Society</strong>, December 7-9, 2026.
 
 <h1>Overview</h1>
 
@@ -59,7 +59,7 @@ Dr. Rumman Chowdhury is a data scientist and social scientist. She is the Co-fou
 
 <h1>Doctoral Consortium</h1>
 
-The Summit will feature a Doctoral Consortium on December 8th, 2026, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. 
+The Summit will feature a Doctoral Consortium on December 9th, 2026, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. 
 
 Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for information about how to apply.
 

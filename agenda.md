@@ -61,13 +61,13 @@ function toggleBibtex(obj) {
 
 <h1>Agenda</h1>
 
-The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday December 7 to Tuesday December 8, 2026.
+The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday December 7 to Wednesday December 9, 2026.
 
 Registration is not yet open. Please check the <a href="/registration">Registration</a> page for updates.
 
-<h2>Tuesday December 8, 2026</h2>
+<h2>Wednesday December 9, 2026</h2>
 
-Tuesday December 8th is devoted to the <a href="/doctoral-consortium">Doctoral Consortium</a>. The Doctoral Consortium is a closed-door event reserved for doctoral participants, mentors, and other invited guests. Doctoral consortium participants will present their work during the poster session on Monday.
+Wednesday December 9th is devoted to the <a href="/doctoral-consortium">Doctoral Consortium</a>. The Doctoral Consortium is a closed-door event reserved for doctoral participants, mentors, and other invited guests. Doctoral consortium participants will present their work during the poster session on Monday.
 
 <h2>Monday December 7, 2026</h2>
 
