@@ -15,10 +15,20 @@ members:
     affiliation: School of Interactive Computing, Georgia Tech
     image: https://shaowenbardzell.com/wp-content/uploads/2013/07/bardzell-shaowen.jpeg
   - name: Jesse Thomason
+    website: https://jessethomason.com/
     title: Associate Professor
     affiliation: Georgia Tech
+    image: https://jessethomason.com/thumbnails/face.jpg
   - name: Cindy Lin
-    affiliation: Georgia Tech
+    website: https://ic.gatech.edu/people/cindy-kaiying-lin
+    title: Stephen Fleming Early Career Assistant Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://ic.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2025-03/cindylin.jpg
+  - name: Carl DiSalvo
+    website: https://carldisalvo.com/
+    title: Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2025-06/disalvo_carl.jpeg
 volunteers:
   - name: Amal Alabdulkarim
     title: PhD Student
