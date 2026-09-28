@@ -8,13 +8,13 @@ toc: true
 
 Research in responsible computing and AI can involve interdisciplinary, multidisciplinary, and transdisciplinary work, which provide extra challenges to an already challenging doctoral career trajectory.
 
-The Doctoral Consortium will take place on December 8th, 2026. Doctoral students in areas related to responsible computing, responsible AI, human-AI interaction, and policy who are admitted to the Doctoral Consortium will received 1:1 and small-group mentorship from established responsible computing and AI faculty, opportunities for networking and establishing themselves as future voices in the area. We also plan career skill development sessions, such as proposal writing. Consortium participants will also be expected to present at a poster session on December 7th during the main Summit event, and to participate in interactive visioning sessions during the main Summit event.
+The Doctoral Consortium will take place on December 9th, 2026. Doctoral students in areas related to responsible computing, responsible AI, human-AI interaction, and policy who are admitted to the Doctoral Consortium will received 1:1 and small-group mentorship from established responsible computing and AI faculty, opportunities for networking and establishing themselves as future voices in the area. We also plan career skill development sessions, such as proposal writing. Consortium participants will also be expected to present at a poster session on December 7th during the main Summit event, and to participate in interactive visioning sessions during the main Summit event.
 
 The Doctoral Consortium will take place in the <b><a href="https://coda.gatech.edu/">CODA Building</a>, 756 West Peachtree Street, Atlanta.</b> You will find the entrance in the breezeway across from the GT Hotel.
 
 <!--<img src="/assets/tsrb-entrance.jpg" width="400">-->
 
-## Tuesday, December 8th 2026
+## Wednesday, December 9th 2026
  
 The consortium will take place in the CODA building.
 
@@ -58,7 +58,7 @@ The consortium will take place in the CODA building.
 
 # Call For Participation
 
-Doctoral students in responsible computing, responsible AI, human-centered AI, human-AI interaction, policy, and related areas are encouraged to apply using the <a href="https://forms.cloud.microsoft/r/Qyxu5UvVhp">Application Form</a>. Your advisor will be need to submit a 1-page reference letter to <a href="mailto:josiah@gatech.edu">Josiah Hester</a> and <a href="mailto:kartikgo@gatech.edu">Kartik Goyal</a>.
+Doctoral students in responsible computing, responsible AI, human-centered AI, human-AI interaction, policy, and related areas are encouraged to apply using the <a href="https://forms.cloud.microsoft/r/Qyxu5UvVhp">Application Form</a>. Your advisor will be need to submit a 1-page reference letter to <a href="mailto:clin646@gatech.edu">Cindy Kaiying Lin</a> and <a href="mailto:jthomason7@gatech.edu">Jesse Thomason</a>.
 
 Applications before November 1, 2026 will receive full consideration.
 
