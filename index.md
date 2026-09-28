@@ -30,7 +30,23 @@ Please see the <a href="/cfp">Call for Contributions</a>
 
 Registration is not yet open. Please check the <a href="/registration">Registration</a> page for updates.
 
-<h1>Keynote Speaker</h1>
+<h1>Keynote Speakers</h1>
+
+<h2><a href="https://miriamposner.com/">Miriam Posner, Ph.D.</a></h2>
+
+<em>Day 1 (December 7), Afternoon Keynote</em>
+
+<img src="/assets/miriam_posner_headshot.jpg" alt="Miriam Posner" align="left" width="200" style="aspect-ratio:3/4;object-fit:cover;margin:0 1.5em 1em 0;" />Miriam Posner is an associate professor at the UCLA School of Information. She’s also a digital humanist with interests in labor, race, feminism, and the history and philosophy of data. As a digital humanist, she is particularly interested in the visualization of large bodies of data from cultural heritage institutions, and the application of digital methods to the analysis of images and video. A film, media, and American studies scholar by training, she frequently writes on the application of digital methods to the humanities. She is at work on two projects: the first on what “data” might mean for humanistic research; and the second on how multinational corporations are making use of data in their supply chains.
+
+<div style="clear:both;"></div>
+
+<h2><a href="https://www.sashaluccioni.com/">Sasha Luccioni, Ph.D.</a></h2>
+
+<em>Day 2 (December 8), Morning Keynote</em>
+
+<img src="/assets/sasha_luccioni_headshot.jpg" alt="Sasha Luccioni" align="left" width="200" style="margin:0 1.5em 1em 0;" />Dr. Sasha Luccioni is a leading scientist at the nexus of artificial intelligence, ethics, and sustainability, with a PhD in AI and a decade of research and industry expertise. She is the Co-Founder and Chief Scientific Officer at Sustainable AI Group, a research and advisory firm helping enterprises measure, compare, and act on the environmental impacts of AI. In recent years, Dr. Luccioni’s work was recognized by TIME Magazine’s 100 most influential people in AI and by Business Insider on its 2024 AI Power List.
+
+<div style="clear:both;"></div>
 
 <!--<b><a href="https://www.rummanchowdhury.com/">Rumman Chowdhury, Ph.D.</a></b>
 
