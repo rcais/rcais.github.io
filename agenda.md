@@ -77,8 +77,8 @@ Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/
 | 11:00 AM - 12:00 PM | Session 2: AI and Education Panel | Theater |
 | 12:00 - 1:30 PM | Catered Lunch | Bottom Level |
 | 1:30 - 2:00 PM | Sponsors session and AIRS | |
-| 2:00 - 3:00 PM | Session 3: Keynote Lecture with Miriam Posner (Humanities) | Theater |
-| 3:00 - 4:00 PM | Session 4: Keynote Panel (Humanities) | Theater |
+| 2:00 - 3:00 PM | Session 3: Keynote Lecture with Miriam Posner | Theater |
+| 3:00 - 4:00 PM | Session 4: Keynote Panel | Theater |
 | 3:50 - 4:00 PM | Break | |
 | 4:00 - 5:00 PM | Session 5: AI Literacies | Theater |
 | 5:00 - 5:15 PM | Closing Remarks | |
@@ -90,10 +90,10 @@ Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/
 |---|---|---|
 | 8:30 - 9:30 AM | Registration & Networking Breakfast | Upper Level Atrium |
 | 9:30 - 9:45 AM | Welcome to Georgia Tech | Theater |
-| 9:45 - 11:00 AM | Session 6: Fireside Chat with Sasha Luccioni (Sustainability) | Theater |
+| 9:45 - 11:00 AM | Session 6: Fireside Chat with Sasha Luccioni | Theater |
 | 11:00 AM - 12:00 PM | Session 7: AI & Sustainability | Theater |
 | 12:00 - 1:30 PM | Catered Lunch | Bottom Level |
-| 12:00 - 1:30 PM | Doctoral Consortium Mentoring Lunch (consortium participants and mentors) | Crystal Dining Room |
+| 12:00 - 1:30 PM | Doctoral Consortium Mentoring Lunch | Crystal Dining Room |
 | 1:30 - 3:00 PM | Session 8: Doctoral Consortium Lightning Rounds | Theater |
 | 3:00 - 3:15 PM | Concluding Remarks | Theater |
 | 3:15 PM | Summit Adjourns | Theater |
@@ -105,7 +105,3 @@ We encourage (and will facilitate) participants to form birds-of-a-feather worki
 <!--
 <img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 4pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2026 Kickoff event on Emory Campus. We hope you will join us for that. See the <a href="https://www.aiai.network/">AIAI website</a> for details.
 -->
-
-# Speaker Session Format
-
-Each speaker session will feature 2-3 10-minute talks designed to raise questions and provoke discussion. After the talks, the speakers will form a panel, led by the session chair during which time audience questions will also be fielded.
