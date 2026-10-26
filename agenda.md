@@ -63,95 +63,49 @@ function toggleBibtex(obj) {
 
 The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday December 7 to Tuesday December 8, 2026.
 
-Registration is not yet open. Please check the <a href="/registration">Registration</a> page for updates.
+Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">marketplace registration page</a>.
 
-<h2>Tuesday December 8, 2026</h2>
-
-Tuesday December 8th is devoted to the <a href="/doctoral-consortium">Doctoral Consortium</a>. The Doctoral Consortium is a closed-door event reserved for doctoral participants, mentors, and other invited guests. Doctoral consortium participants will present their work during the poster session on Monday.
+*Draft schedule. Sessions, speakers, and times are subject to change.*
 
 <h2>Monday December 7, 2026</h2>
 
-**Sessions and times: TBD**
+| Time | Session | Location |
+|---|---|---|
+| 8:30 - 9:30 AM | Registration & Networking Breakfast | Upper Level Atrium |
+| 9:30 - 9:45 AM | Welcome to Georgia Tech | Theater |
+| 9:45 - 11:00 AM | Session 1: AI and Education | Theater |
+| 11:00 AM - 12:00 PM | Session 2: AI and Education Panel | Theater |
+| 12:00 - 1:30 PM | Catered Lunch | Bottom Level |
+| 1:30 - 2:00 PM | Sponsors session and AIRS | |
+| 2:00 - 3:00 PM | Session 3: Keynote Lecture with Miriam Posner (Humanities) | Theater |
+| 3:00 - 4:00 PM | Session 4: Keynote Panel (Humanities) | Theater |
+| 3:50 - 4:00 PM | Break | |
+| 4:00 - 5:00 PM | Session 5: AI Literacies | Theater |
+| 5:00 - 5:15 PM | Closing Remarks | |
+| 5:15 - 7:15 PM | Poster Session Reception | Upper Level Atrium |
+
+<h2>Tuesday December 8, 2026</h2>
+
+| Time | Session | Location |
+|---|---|---|
+| 8:30 - 9:30 AM | Registration & Networking Breakfast | Upper Level Atrium |
+| 9:30 - 9:45 AM | Welcome to Georgia Tech | Theater |
+| 9:45 - 11:00 AM | Session 6: Fireside Chat with Sasha Luccioni (Sustainability) | Theater |
+| 11:00 AM - 12:00 PM | Session 7: AI & Sustainability | Theater |
+| 12:00 - 1:30 PM | Catered Lunch | Bottom Level |
+| 12:00 - 1:30 PM | Doctoral Consortium Mentoring Lunch (consortium participants and mentors) | Crystal Dining Room |
+| 1:30 - 3:00 PM | Session 8: Doctoral Consortium Lightning Rounds | Theater |
+| 3:00 - 3:15 PM | Concluding Remarks | Theater |
+| 3:15 PM | Summit Adjourns | Theater |
+
+The <a href="/doctoral-consortium">Doctoral Consortium</a> shares Tuesday with the Summit and continues after the Summit concludes. Consortium participants present their work during Monday's poster session reception.
+
+We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.
 
 <!--
-| Time | Activity |
-|---|---|
-| 9:15 - 9:30 | Welcome |
-| 9:30 - 10:45 | Keynote Presentation: Dr. Rumman Chowdhury, "Enabling human agency in Generative AI"<br>Recent applications and approaches to AI create greater human exclusion. While this is framed as an inevitability by tech companies, this doesn’t have to be the case. In this keynote, Dr. Chowdhury will present a roadmap for a human centric and human enabling future, drawing from her work pioneering inclusive practices of human centric test and evaluation.  |
-| 10:45 - 11:00 | Break |
-| 11:00 - 12:00 | **Session 1: Education in the Era of AI**<br>Ashok Goel, Georgia Tech, "AI for Lifetime Learning"<br>Michael Horn, Northwestern University, "Vibe Studenting: Literacy and Learning in the Age of AI"<br>Tamara Tate, University of California, Irvine, "If, when, and how to use generative AI in education"<br>Session chair: Judith Uchidiuno |
-| 12:00 - 1:30 | Catered lunch and interactive activity |
-| 1:30 - 2:30 | **Session 2: Creativity and Computation**<br>Brian Magerko, Georgia Tech, "Curating an Ethical Co-creative AI tool for Modern Improvisational Movement"<br>Irfan Essa, Google and Georgia Tech, "Making movies in the era of generative AI"<br>Anna Huang, MIT, "In Search of Human-AI Resonance" <br>Session chair: Mark Riedl |
-| 2:30 - 3:30 | Poster session and refreshments ([List of posters](#posters)) |
-| 3:30 - 4:30 | **Session 3: Health**<br>Jennifer Kim, Georgia Tech, "Toward Responsible LLM-Powered Interventions for Health and Wellbeing"<br>Firaz Peer, University of Kentucky, "Using AI for Recovery from Substance and Behavioral Addictions"<br>Naveena Karusala, Georgia Tech, "Building Capacity for Worker-led AI Governance in Healthcare Settings"<br>Session chair: Neha Kumar |
-| 4:40 - 4:50 | Break |
-| 4:50 - 5:50 | **Session 4: Humanities and AI**<br>Carl DiSalvo, Georgia Tech, "Taking Democracy Seriously: Potentials and Limitations of Participation and AI"<br>Lauren Klein, Emory University, and Andre Block, Georgia Tech, "Provocations from the Humanities for Generative AI Research"<br>Elissa Redmilles, Georgetown University, "A Tractable Extreme: What Responsible Computing Can Learn From Defending in Depth against AI Sexual Abuse"<br>Session Chair: Richmond Wong |
-| 5:40 | Adjourn for the day. Dinner on own |
-|---|---|
--->
-
-<h2>Monday December 7, 2026 (continued)</h2>
-
-**Sessions and times: TBD**
-
-<!--
-| Time | Activity |
-|---|---|
-| 9:00 - 9:15 | Welcome |
-| 9:15 - 10:15 | **Session 5: Agents**<br>Tucker Balch, Emory University, "Computing for Evil: How Stock Trading Agents Go Bad"<br>Nick Diakopoulos, Northwestern University, "The AI Accountability Problem"<br>Dylan Hadfield-Menell, MIT, "Building Safe, Interpretable, and Aligned Agents for Open-World Environments"<br>Session Chair: Chinmay Kulkarni |
-| 10:15 - 10:30 | Break |
-| 10:30 - 11:30 | **Session 6: Sustainable World**<br>Robert Soden, University of Toronto, "Against Actionability: Why Data for Decisions is Holding Back Progress in Environmental Informatics"<br>Cindy Lin, Georgia Tech, "Towards Data Center as Public Goods"<br>Zeyu Yan, University of Maryland, "Electronics that Evolve: Local Re-manufacturing of PCB Assembly"<br>Session chair: Josiah Hester |
-| 11:30 - 12:00 | Concluding remarks |
-| 12:00 | Officially adjourn |
-|---|---|
--->
-
-We encourage (and will facilitate) participants to form birds-of-a-feather working groups to network over lunch together.  
-
 <img src="https://www.aiai.network/wp-content/uploads/2024/02/AIAI_Logo-150x150.png" align="left" width="100" />At 4pm, the <a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a> will hold their Fall 2026 Kickoff event on Emory Campus. We hope you will join us for that. See the <a href="https://www.aiai.network/">AIAI website</a> for details.
+-->
 
 # Speaker Session Format
 
 Each speaker session will feature 2-3 10-minute talks designed to raise questions and provoke discussion. After the talks, the speakers will form a panel, led by the session chair during which time audience questions will also be fielded.
-
-<h1 id="posters">Poster Presentations</h1>
-
-The Poster Session is Monday December 7th at 2:30-3:30pm.
-
-| Authors | Title |
-|---|---|
-| Alice Oh (KAIST) | "Multiple languages and cultures: from challenges to solutions for LLMs" |
-| Upol Ehsan (Northeastern University) | "The Algorithmic Imprint" |
-| Yijin Ni, Xiaoming Huo (Georgia Tech) | "An Analytical Framework to Precisely Characterize the Accuracy-Fairness Trade-off in Fair Representation Learning" |
-| Angel Hwang (University of Southern California) | "Advancing Human Subjects Research to Advance Human-Centered AI: Repurposing Behavioral Experimentation as Driver of Responsible AI Design" |
-| Sanaz Ahmadzadeh Siyahrood and Michael Hoffmann (Georgia Tech) | "User-Engaged Responsible AI Design: A Method" |
-| Sina Rismanchian, Peter Liu, and Shayan Doroudi (University of California, Irvine) | "The Role of Intellectual Virtues in the Age of Generative AI" |
-| Juba Ziana (Georgia Tech) | "How do Humans Respond to High-Stake AI-Driven Decision-Making? On Fairness and Societal Impact" |
-| DeBrae Kennedy-Mayo and Jake Gord (Georgia Tech) | "Beyond Democracy?: AI and the Rule of Law, Separation of Powers, and Individual Rights" |
-| Steven Luo and Camille Crittenden (University of California, Berkeley) | "Inclusive, Interdisciplinary, and Scalable Models for Building University-Centered Responsible AI Communities" |
-| Samir Passi and Shipi Dhanorkar (Microsoft) | "The Human Oversight of Agentic Systems Is Currently Near Impossible, but It Does Not Have to Stay That Way" |
-| Desiree B. Junfijiah | "AI Catastrophic Risk and the Politics of Disposability: What We Owe Beyond the Margins" |
-| Neil Gaikwad (University of North Carolina) | "Public Interest AI: The Democracy-Performance Paradox" |
-| Zeyu Yan (University of Maryland) | "Local Circular Electronics Lifecycle Empowered by Sustainable Computational Fabrication Techniques" |
-| Anna Kawakami and Jordan Taylor (CMU) | "AI Failure Loops in the Devalued Workplace: The Confluence of Overconfidence in AI & Underconfidence in Worker Expertise" |
-|---|---|
-
-| Doctoral Consortium Posters | Title |
-|---|---|
-| Charlotte Li (Northwestern) | "Towards Ecologically Valid LLM Benchmarks: Understanding and Designing Domain-Centered Evaluations for Journalism Practitioners" |
-| Yasmine Belghith (Georgia Tech) | "Productive Failure-based AI Literacy Escape Room (ProFAILER): Exploring productive failure and gamification to foster AI literacy" |
-| Aman Khullar (Georgia Tech) | "Social Evaluations of Generative AI: Towards a Participatory Impact Evaluation Framework for GenAI-Based Systems" |
-| Anna Kawakami (CMU) | "Designing Positive AI Futures for Socially Complex Work With and For Workers" |
-| Amal Alabdulkarim (Georgia Tech) |  "Temporality in Sequential Explainable AI" | 
-| Ali Shirali (UC Berkeley) | "Towards A Bottom-Up Approach to Responsible AI" |
-| Kartik Sharma (Georgia Tech) | "Intention in tension: Towards robust and controllable machine learning" |
-| Shi Ding (Georgia Tech) | "Rethinking AI Benchmark Evaluation with the TEACH-AI Framework" |
-| Jocelyn Shen (MIT) | "Human AI Interaction for Empathic Communication and Relational Integrity" |
-| Charles Nimo (Georgia Tech) | "Africa Health Check: Probing Cultural Bias in Medical LLMs" |
-| Jordan Taylor (CMU) | "Un-Straightening Generative AI: How Queer Artists Surface and Challenge Model Normativity" |
-| Kayla Evans (Georgia Tech) |  "Active and Passive Decisions: How ethical choices are made (and missed) in NLP research settings" |
-| Xingyu Li (Georgia Tech) | "Embodied, Informal Auditing as a Human-Centered Approach to Civic Engagement with Responsible Emotion AI" |
-| Taneea S Agrawaal (Toronto) | "An Analytical Framework for Designing Usable, Place-based, and Equitable Climate Informatics" |
-| Saloni Dash (University of Washington) | "Persona-Assigned Large Language Models Exhibit Human-Like Motivated Reasoning" |
-| Eve Fleisig (UC Berkeley) | "Building Language Models that Serve Diverse User Distributions" |
-|---|---|
