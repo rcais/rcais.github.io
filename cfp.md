@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: Call for Contributions
+published: false
 toc: true
 ---
 

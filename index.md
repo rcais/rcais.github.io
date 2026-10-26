@@ -22,13 +22,11 @@ The Georgia Tech <a href="https://ic.gatech.edu/">School of Interactive Computin
 
 <h1>Overview</h1>
 
-The Summit on Responsible Computing, AI, and Society aims to explore the future of computing for health, sustainability, human-centered AI, and policy. The summit will bring together luminary researchers in computing for health, sustainability, human-centered AI, and tech policy to lay out the frontiers of these critical fields, and to plot out how they must evolve. 
-
-Please see the <a href="/cfp">Call for Contributions</a>
+The Summit on Responsible Computing, AI, and Society aims to explore the future of computing for health, sustainability, education, human-centered AI, and policy. The summit will bring together luminary researchers in computing for health, sustainability, education, human-centered AI, and tech policy to lay out the frontiers of these critical fields, and to plot out how they must evolve. 
 
 <h1>Registration</h1>
 
-Registration is not yet open. Please check the <a href="/registration">Registration</a> page for updates.
+Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">marketplace registration page</a>.
 
 <h1>Keynote Speakers</h1>
 
@@ -59,7 +57,7 @@ Dr. Rumman Chowdhury is a data scientist and social scientist. She is the Co-fou
 
 <h1>Doctoral Consortium</h1>
 
-The Summit will feature a Doctoral Consortium on December 8th, 2026, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, sustainability (environmental or community), or health. 
+The Summit will feature a Doctoral Consortium on December 8th, 2026, which will offer Ph.D. students opportunities to introduce their research to the broader research community, and receive mentorship, and constructive input.  We are looking for individuals just before, or just after, their PhD proposal defense who are working in the area of human-centered AI, responsible AI, responsible computing, education, sustainability (environmental or community), or health. 
 
 Please see the <a href="/doctoral-consortium">Doctoral Consortium</a> page for information about how to apply.
 
@@ -79,6 +77,8 @@ If you would like to receive updates about the current or future Summits, you ca
 <h1>Sponsors</h1>
 
 The Summit graciously thanks its sponsors for proving support for the Doctoral Consortium.
+
+Interested in supporting the Summit? Please see the <a href="/prospectus">Sponsorship Prospectus</a>.
 
 <h2>Primary Sponsors</h2>
 <table width="100%">
