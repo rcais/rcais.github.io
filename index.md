@@ -99,22 +99,28 @@ Interested in supporting the Summit? Please see the <a href="/prospectus">Sponso
     <td><a href="https://responsible.computing.gatech.edu/">Georgia Tech Center for Advancing Responsible Computing</a></td>
   </tr>
 
-  <!--<tr>
-    <td><img src="assets/ai-hub.png" width="200"></td>
-    <td><a href="https://ai.gatech.edu/">The AI Hub at Georgia Tech</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png" width="150"></td>
-    <td><a href="https://www.nsf.gov/">National Science Foundation</a></td>
-  </tr>
   <tr>
     <td><img src="assets/google.png" width="200"></td>
     <td><a href="https://www.google.com/">Google</a></td>
+  </tr>
+
+  <!--<tr>
+    <td><img src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png" width="150"></td>
+    <td><a href="https://www.nsf.gov/">National Science Foundation</a></td>
   </tr>-->
 </table>
 
 <h2>Silver Sponsors</h2>
 <table width="100%">
+  <tr>
+    <td><img src="assets/ai-hub.png" width="200"></td>
+    <td><a href="https://techai.gatech.edu/ai-and-data-ecosystem">Georgia Tech AI: AI &amp; Data Ecosystem</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/aiai.png" width="200"></td>
+    <td><a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a></td>
+  </tr>
+
   <!--<tr>
     <td><img src="assets/microsoft.jpg" width="200"></td>
     <td><a href="https://www.microsoft.ai/">Microsoft AI</a></td>
