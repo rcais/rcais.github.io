@@ -63,7 +63,7 @@ function toggleBibtex(obj) {
 
 The Summit takes place at the <a href="/location">Georgia Tech Historic Academy of Medicine Building</a>, Monday December 7 to Tuesday December 8, 2026.
 
-Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">marketplace registration page</a>.
+Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">registration page</a>.
 
 *Draft schedule. Sessions, speakers, and times are subject to change.*
 
