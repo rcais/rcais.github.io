@@ -116,6 +116,10 @@ Interested in supporting the Summit? Please see the <a href="/prospectus">Sponso
     <td><img src="assets/ai-hub.png" width="200"></td>
     <td><a href="https://techai.gatech.edu/ai-and-data-ecosystem">Georgia Tech AI: AI &amp; Data Ecosystem</a></td>
   </tr>
+  <tr>
+    <td><img src="assets/aiai.png" width="200"></td>
+    <td><a href="https://www.aiai.network/">Atlanta Interdisciplinary Artificial Intelligence (AIAI) Network</a></td>
+  </tr>
 
   <!--<tr>
     <td><img src="assets/microsoft.jpg" width="200"></td>
