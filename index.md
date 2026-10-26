@@ -26,7 +26,7 @@ The Summit on Responsible Computing, AI, and Society aims to explore the future 
 
 <h1>Registration</h1>
 
-Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">marketplace registration page</a>.
+Please register through the <a href="https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=607">registration page</a>.
 
 <h1>Keynote Speakers</h1>
 
